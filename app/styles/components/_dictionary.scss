@@ -1,0 +1,18 @@
+.dictionary {
+	h1 {
+		color: var(--color-primary);
+	}
+
+	.container {
+		border-top: 1px solid var(--color-contrast-low);
+
+		padding-top: 2rem;
+	}
+}
+
+.dictionary-name {
+	.text--subtle {
+		font-size: var(--text-xs);
+		font-weight: 600;
+	}
+}

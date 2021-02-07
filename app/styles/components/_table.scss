@@ -1,0 +1,34 @@
+.table {
+	margin-top: 2rem;
+
+	.table-header {
+		padding: 1rem;
+
+		background-color: var(--color-code-block);
+	}
+
+	.table-content {
+		background-color: alpha(var(--color-code-block), 0.6);
+
+		padding: 1.5rem;
+	}
+
+	.table-item {
+		.audio-group {
+			margin-top: 0.3rem;
+		}
+
+		.audio-button {
+			--width: 1rem;
+
+			svg {
+				width: var(--width);
+				height: var(--width);
+			}
+		}
+
+		&:not(:first-child) {
+			margin-top: 1rem;
+		}
+	}
+}

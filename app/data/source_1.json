@@ -1,0 +1,4674 @@
+[
+	{
+		"word": "accountability",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˌkaʊntəˈbɪləti/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accou/accountability__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˌkaʊntəˈbɪləti/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accou/accountability__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "accidentally",
+		"result": {
+			"lexicalCategory": "adverb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˌæksɪˈdentəli/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accid/accidentally__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˌæksɪˈdentəli/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accid/accidentally__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "accomplish",
+		"result": {
+			"lexicalCategory": "verb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈkʌmplɪʃ/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accom/accomplish__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈkɑːmplɪʃ/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accom/accomplish__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [
+				{
+					"sense": "Past simple",
+					"word": "accomplished",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accom/accomplished__gb_1.mp3",
+							"spell": "/əˈkʌmplɪʃt/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accom/accomplished__us_1.mp3",
+							"spell": "/əˈkɑːmplɪʃt/"
+						}
+					]
+				},
+				{
+					"sense": "Past participle",
+					"word": "accomplished",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accom/accomplished__gb_1.mp3",
+							"spell": "/əˈkʌmplɪʃt/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accom/accomplished__us_1.mp3",
+							"spell": "/əˈkɑːmplɪʃt/"
+						}
+					]
+				},
+				{
+					"sense": "-ing form",
+					"word": "accomplishing",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accom/accomplishing__gb_1.mp3",
+							"spell": "/əˈkʌmplɪʃɪŋ/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accom/accomplishing__us_1.mp3",
+							"spell": "/əˈkɑːmplɪʃɪŋ/"
+						}
+					]
+				}
+			],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": [
+				{
+					"sense": "Present simple",
+					"plural": {
+						"text": "I / You / We / They",
+						"word": "accomplish",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accom/accomplish__gb_1.mp3",
+								"spell": "/əˈkʌmplɪʃ/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accom/accomplish__us_1.mp3",
+								"spell": "/əˈkɑːmplɪʃ/"
+							}
+						]
+					},
+					"singular": {
+						"text": "He / She / It",
+						"word": "accomplishes",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accom/accomplishes__gb_1.mp3",
+								"spell": "/əˈkʌmplɪʃɪz/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accom/accomplishes__us_1.mp3",
+								"spell": "/əˈkɑːmplɪʃɪz/"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	{
+		"word": "abundance",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈbʌndəns/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abu/abund/abundance__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈbʌndəns/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abu/abund/abundance__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [
+				{
+					"text": "in abundance ",
+					"sense": "in large quantities",
+					"examples": [
+						"Fruit and vegetables grew in abundance on the island.",
+						"Exotic plants grew there in great abundance."
+					]
+				}
+			],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "abortion",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈbɔːʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abo/abort/abortion__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈbɔːrʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abo/abort/abortion__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "the deliberate ending of a pregnancy at an early stage",
+				"examples": [
+					"to support/oppose abortion",
+					"a woman’s right to abortion",
+					"the country's strict abortion laws",
+					"I've always been anti-abortion.",
+					"The abortion issue is political dynamite.",
+					"Women's groups are calling for free contraception and abortion on demand.",
+					"She decided to have an abortion.",
+					"Some medical staff wanted the right to refuse to perform abortions.",
+					"Higher amounts of caffeine may be associated with increased rates of abortion and low birthweight."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "academy",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈkædəmi/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aca/acade/academy__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈkædəmi/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aca/acade/academy__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "a school or college for special training",
+				"examples": [
+					"She trained at the Royal Academy of Music.",
+					"a police/military academy",
+					"He later studied at the Royal Academy.",
+					"He specialized in naval history at the Naval Academy.",
+					"He's a cadet at the Royal Military Academy, Sandhurst.",
+					"the Royal Academy of Arts",
+					"He went to Ayr Academy."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "absurd",
+		"result": {
+			"lexicalCategory": "adjective",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əbˈsɜːd/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/absur/absurd__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əbˈsɜːrd/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abs/absur/absurd__us_1_rr.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "extremely silly; not logical and sensible",
+				"examples": [
+					"That uniform makes the guards look absurd.",
+					"Of course it's not true, what an absurd idea.",
+					"She found the whole concept faintly absurd.",
+					"Such beliefs are patently absurd.",
+					"Don't be absurd! Why would he want to do a thing like that?",
+					"I must say I felt faintly absurd.",
+					"It's absurd to suggest that I'm being unprofessional.",
+					"He has a good sense of the absurd."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "accordance",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈkɔːdns/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accor/accordance__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈkɔːrdns/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accor/accordance__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [
+				{
+					"text": "in accordance with something ",
+					"sense": "according to a rule or the way that somebody says that something should be done",
+					"examples": [
+						"in accordance with legal requirements",
+						"We acted in accordance with my parents’ wishes."
+					]
+				}
+			],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "accumulate",
+		"result": {
+			"lexicalCategory": "verb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈkjuːmjəleɪt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accum/accumulate__gb_2.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈkjuːmjəleɪt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accum/accumulate__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [
+				{
+					"sense": "Past simple",
+					"word": "accumulated",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accum/accumulated__gb_1.mp3",
+							"spell": "/əˈkjuːmjəleɪtɪd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accum/accumulated__us_1.mp3",
+							"spell": "/əˈkjuːmjəleɪtɪd/"
+						}
+					]
+				},
+				{
+					"sense": "Past participle",
+					"word": "accumulated",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accum/accumulated__gb_1.mp3",
+							"spell": "/əˈkjuːmjəleɪtɪd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accum/accumulated__us_1.mp3",
+							"spell": "/əˈkjuːmjəleɪtɪd/"
+						}
+					]
+				},
+				{
+					"sense": "-ing form",
+					"word": "accumulating",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accum/accumulating__gb_1.mp3",
+							"spell": "/əˈkjuːmjəleɪtɪŋ/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accum/accumulating__us_1.mp3",
+							"spell": "/əˈkjuːmjəleɪtɪŋ/"
+						}
+					]
+				}
+			],
+			"senses": {
+				"text": "to gradually get more and more of something over a period of time",
+				"examples": [
+					"I seem to have accumulated a lot of books.",
+					"By investing wisely she accumulated a fortune.",
+					"We have accumulated a great amount of evidence.",
+					"We’ve been collecting data from various sources.",
+					"Dirt had collected in the corners of the room.",
+					"I waited while he gathered up his papers.",
+					"Detectives have spent months gathering evidence.",
+					"I seem to have accumulated a lot of books.",
+					"Debts began to accumulate.",
+					"He amassed a fortune from silver mining.",
+					"Children gradually accumulate knowledge as they grow up.",
+					"the wealth he had accumulated over the years",
+					"Debts began to accumulate.",
+					"Dust and dirt soon accumulate if a house is not cleaned regularly.",
+					"We’ve been collecting data from various sources.",
+					"Dirt had collected in the corners of the room.",
+					"I waited while he gathered up his papers.",
+					"Detectives have spent months gathering evidence.",
+					"I seem to have accumulated a lot of books.",
+					"Debts began to accumulate.",
+					"He amassed a fortune from silver mining.",
+					"Dirt must not be allowed to accumulate.",
+					"Evidence began to accumulate, suggesting that the drug had harmful side-effects.",
+					"Toxic chemicals tend to accumulate in the body.",
+					"seas and lakes where sedimentary deposits are slowly accumulating"
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": [
+				{
+					"sense": "Present simple",
+					"plural": {
+						"text": "I / You / We / They",
+						"word": "accumulate",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accum/accumulate__gb_2.mp3",
+								"spell": "/əˈkjuːmjəleɪt/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accum/accumulate__us_1.mp3",
+								"spell": "/əˈkjuːmjəleɪt/"
+							}
+						]
+					},
+					"singular": {
+						"text": "He / She / It",
+						"word": "accumulates",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accum/accumulates__gb_1.mp3",
+								"spell": "/əˈkjuːmjəleɪts/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accum/accumulates__us_1.mp3",
+								"spell": "/əˈkjuːmjəleɪts/"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	{
+		"word": "accomplishment",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈkʌmplɪʃmənt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accom/accomplishment__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈkɑːmplɪʃmənt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accom/accomplishment__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "an impressive thing that is done or achieved after a lot of work",
+				"examples": [
+					"It was one of the President's greatest accomplishments.",
+					"The series of paintings is quite an accomplishment.",
+					"If this works, it will be a major accomplishment.",
+					"It would be quite an accomplishment if we could get this finished in time.",
+					"The administration's success in cutting the budget was an impressive accomplishment.",
+					"the technical accomplishments of modern medicine",
+					"Drawing and singing were among her many accomplishments.",
+					"He was described as ‘a poet of rare accomplishment’.",
+					"Her technical accomplishment on the piano is startling.",
+					"The award recognizes extraordinary accomplishment in the field of medicine.",
+					"a work of real accomplishment",
+					"It is a great accomplishment in singing to take the melodic line up to a position of energy and hold it there.",
+					"Money will be crucial to the accomplishment of our objectives.",
+					"There is a real sense of accomplishment when everything goes right."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "abolish",
+		"result": {
+			"lexicalCategory": "verb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈbɒlɪʃ/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abo/aboli/abolish__gb_2.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈbɑːlɪʃ/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abo/aboli/abolish__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [
+				{
+					"sense": "Past simple",
+					"word": "abolished",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abo/aboli/abolished__gb_1.mp3",
+							"spell": "/əˈbɒlɪʃt/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abo/aboli/abolished__us_1.mp3",
+							"spell": "/əˈbɑːlɪʃt/"
+						}
+					]
+				},
+				{
+					"sense": "Past participle",
+					"word": "abolished",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abo/aboli/abolished__gb_1.mp3",
+							"spell": "/əˈbɒlɪʃt/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abo/aboli/abolished__us_1.mp3",
+							"spell": "/əˈbɑːlɪʃt/"
+						}
+					]
+				},
+				{
+					"sense": "-ing form",
+					"word": "abolishing",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abo/aboli/abolishing__gb_1.mp3",
+							"spell": "/əˈbɒlɪʃɪŋ/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abo/aboli/abolishing__us_1.mp3",
+							"spell": "/əˈbɑːlɪʃɪŋ/"
+						}
+					]
+				}
+			],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": [
+				{
+					"sense": "Present simple",
+					"plural": {
+						"text": "I / You / We / They",
+						"word": "abolish",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abo/aboli/abolish__gb_2.mp3",
+								"spell": "/əˈbɒlɪʃ/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abo/aboli/abolish__us_1.mp3",
+								"spell": "/əˈbɑːlɪʃ/"
+							}
+						]
+					},
+					"singular": {
+						"text": "He / She / It",
+						"word": "abolishes",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abo/aboli/abolishes__gb_1.mp3",
+								"spell": "/əˈbɒlɪʃɪz/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abo/aboli/abolishes__us_1.mp3",
+								"spell": "/əˈbɑːlɪʃɪz/"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	{
+		"word": "accountant",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈkaʊntənt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accou/accountant__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈkaʊntənt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accou/accountant__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "accountable",
+		"result": {
+			"lexicalCategory": "adjective",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈkaʊntəbl/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accou/accountable__gb_2.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈkaʊntəbl/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accou/accountable__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "accelerate",
+		"result": {
+			"lexicalCategory": "verb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əkˈseləreɪt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accel/accelerate__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əkˈseləreɪt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accel/accelerate__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [
+				{
+					"sense": "Past simple",
+					"word": "accelerated",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accel/accelerated__gb_1.mp3",
+							"spell": "/əkˈseləreɪtɪd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accel/accelerated__us_1.mp3",
+							"spell": "/əkˈseləreɪtɪd/"
+						}
+					]
+				},
+				{
+					"sense": "Past participle",
+					"word": "accelerated",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accel/accelerated__gb_1.mp3",
+							"spell": "/əkˈseləreɪtɪd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accel/accelerated__us_1.mp3",
+							"spell": "/əkˈseləreɪtɪd/"
+						}
+					]
+				},
+				{
+					"sense": "-ing form",
+					"word": "accelerating",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accel/accelerating__gb_1.mp3",
+							"spell": "/əkˈseləreɪtɪŋ/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accel/accelerating__us_1.mp3",
+							"spell": "/əkˈseləreɪtɪŋ/"
+						}
+					]
+				}
+			],
+			"senses": {
+				"text": "to happen faster or earlier; to make something happen faster or earlier",
+				"examples": [
+					"Inflation continues to accelerate.",
+					"accelerate something Exposure to the sun can accelerate the ageing process.",
+					"Government policy has greatly accelerated the decline of the small farmer.",
+					"Population growth accelerated only after 1750.",
+					"The epidemic is accelerating dramatically.",
+					"The pace of change has begun to accelerate.",
+					"factors which may accelerate inflation",
+					"rapidly accelerating social change",
+					"Environmental factors can accelerate the development of certain cancers.",
+					"He vowed to intensify efforts to accelerate the structural reform of the economy.",
+					"The runners accelerated smoothly around the bend.",
+					"The car accelerated to overtake me.",
+					"The car purred into life and accelerated away."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": [
+				{
+					"sense": "Present simple",
+					"plural": {
+						"text": "I / You / We / They",
+						"word": "accelerate",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accel/accelerate__gb_1.mp3",
+								"spell": "/əkˈseləreɪt/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accel/accelerate__us_1.mp3",
+								"spell": "/əkˈseləreɪt/"
+							}
+						]
+					},
+					"singular": {
+						"text": "He / She / It",
+						"word": "accelerates",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accel/accelerates__gb_1.mp3",
+								"spell": "/əkˈseləreɪts/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accel/accelerates__us_1.mp3",
+								"spell": "/əkˈseləreɪts/"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	{
+		"word": "acid",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈæsɪd/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aci/acid_/acid__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈæsɪd/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aci/acid_/acid__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "a chemical, usually a liquid, that contains hydrogen and has a pH of less than seven. The hydrogen can be replaced by a metal to form a salt. Acids usually have a bitter sharp taste and can often burn holes in or damage things they touch.",
+				"examples": [
+					"The acid burned a hole in her coat.",
+					"Stomach acids can break down the poison.",
+					"You will need a special chemical to neutralize the acid.",
+					"They smoke joints and drop acid.",
+					"He described the music as ‘Brahms on acid’."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "adolescent",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˌædəˈlesnt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ado/adole/adolescent__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˌædəˈlesnt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ado/adole/adolescent__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "alien",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈeɪliən/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ali/alien/alien__gb_2.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈeɪliən/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ali/alien/alien__us_1_rr.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "a person who is not a citizen of the country in which they live or work",
+				"examples": [
+					"an illegal alien",
+					"During the war, he was imprisoned as an enemy alien.",
+					"It is illegal for employers to hire aliens not authorized for employment.",
+					"The provisions would broaden the government's ability to deport aliens.",
+					"aliens from outer space",
+					"Do you genuinely believe that space aliens have landed on our planet?",
+					"Few movies represent intelligent aliens as physically different from humans.",
+					"He was convinced that he'd been abducted by aliens.",
+					"In the movie aliens invade Earth."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "activation",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˌæktɪˈveɪʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/activ/activation__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˌæktɪˈveɪʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/activ/activation__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "absent",
+		"result": {
+			"lexicalCategory": "adjective",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈæbsənt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/absen/absent__gb_4.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈæbsənt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abs/absen/absent__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "not in a place because of illness, etc.",
+				"examples": [
+					"He was absent from work for two weeks.",
+					"Local people were conspicuously absent from the meeting.",
+					"Love was totally absent from his childhood.",
+					"He now played with a passion that had been strangely absent from his previous performance.",
+					"He played with an abandon that was strangely absent from his performance last week.",
+					"an absent expression"
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "abstract",
+		"result": {
+			"lexicalCategory": "adjective",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈæbstrækt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/abstr/abstract__gb_5.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈæbstrækt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abs/abstr/abstract__us_2_rr.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "based on general ideas and not on any particular real person, thing or situation",
+				"examples": [
+					"abstract knowledge/principles",
+					"The research shows that pre-school children are capable of thinking in abstract terms.",
+					"Abstract principles are no good in this particular situation.",
+					"All human beings are capable of thinking in abstract terms.",
+					"We may talk of beautiful things but beauty itself is abstract.",
+					"Mathematics is an extremely abstract discipline.",
+					"Some of the ideas that their legal system is based on are incredibly abstract.",
+					"Freedom is more than a purely abstract notion.",
+					"the work of American abstract expressionists like Mark Rothko"
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "adequate",
+		"result": {
+			"lexicalCategory": "adjective",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈædɪkwət/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ade/adequ/adequate__gb_3.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈædɪkwət/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ade/adequ/adequate__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "affordable",
+		"result": {
+			"lexicalCategory": "adjective",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈfɔːdəbl/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aff/affor/affordable__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈfɔːrdəbl/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aff/affor/affordable__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "accurately",
+		"result": {
+			"lexicalCategory": "adverb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈækjərətli/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accur/accurately__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈækjərətli/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accur/accurately__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "in a way that is correct and true in every detail",
+				"examples": [
+					"The article accurately reflects public opinion.",
+					"The report accurately reflects the current state of the industry.",
+					"Quantities must be measured accurately.",
+					"You need to hit the ball accurately."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "affection",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈfekʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aff/affec/affection__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈfekʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aff/affec/affection__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "the feeling of liking or loving somebody/something very much and caring about them",
+				"examples": [
+					"Children need lots of love and affection.",
+					"He didn't show his wife any affection.",
+					"She was held in deep affection by all her students.",
+					"affection for somebody/something Mr Darcy’s affection for his sister",
+					"I have a great affection for New York.",
+					"He just wants a bit of affection.",
+					"He'll be remembered with genuine affection.",
+					"I don't go in for public displays of affection.",
+					"She had developed a real affection for him.",
+					"She had tried hard to win his affection.",
+					"The teacher showed affection to all her students.",
+					"a strong feeling of affection",
+					"Anne had two men trying to win her affections.",
+					"The object of her affections was a young man named Paul."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "albeit",
+		"result": {
+			"lexicalCategory": "conjunction",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˌɔːlˈbiːɪt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alb/albei/albeit__gb_2.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˌɔːlˈbiːɪt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alb/albei/albeit__us_1_rr.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "adjacent",
+		"result": {
+			"lexicalCategory": "adjective",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈdʒeɪsnt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adj/adjac/adjacent__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈdʒeɪsnt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adj/adjac/adjacent__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "ambulance",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈæmbjələns/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/amb/ambul/ambulance__gb_5.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈæmbjələns/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/amb/ambul/ambulance__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "allegedly",
+		"result": {
+			"lexicalCategory": "adverb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈledʒɪdli/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/alleg/allegedly__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈledʒɪdli/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/alleg/allegedly__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "annually",
+		"result": {
+			"lexicalCategory": "adverb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈænjuəli/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ann/annua/annually__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈænjuəli/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ann/annua/annually__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "ambassador",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/æmˈbæsədə(r)/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/amb/ambas/ambassador__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/æmˈbæsədər/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/amb/ambas/ambassador__us_1_rr.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "an official who lives in a foreign country as the senior representative there of his or her own country",
+				"examples": [
+					"the British Ambassador to Italy/in Rome",
+					"a former ambassador to the UN",
+					"She served as a roving ambassador, with 51 trips to foreign countries by 2017.",
+					"The US ambassador was recalled to Washington in protest.",
+					"the Israeli ambassador in London",
+					"He's a former ambassador to the UN.",
+					"The King sent an ambassador to Paris.",
+					"The best ambassadors for the sport are the players."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "accumulation",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˌkjuːmjəˈleɪʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accum/accumulation__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˌkjuːmjəˈleɪʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accum/accumulation__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "the process of gradually increasing or getting more and more of something over a period of time",
+				"examples": [
+					"the accumulation of wealth",
+					"an accumulation of toxic chemicals"
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "accordingly",
+		"result": {
+			"lexicalCategory": "adverb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈkɔːdɪŋli/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accor/accordingly__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈkɔːrdɪŋli/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accor/accordingly__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "in a way that is appropriate to what has been done or said in a particular situation",
+				"examples": [
+					"We have to discover his plans and act accordingly.",
+					"The cost of materials rose sharply last year. Accordingly, we were forced to increase our prices."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "addiction",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈdɪkʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/add/addic/addiction__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈdɪkʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/add/addic/addiction__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "adverse",
+		"result": {
+			"lexicalCategory": "adjective",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈædvɜːs//ədˈvɜːs/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adv/adver/adverse__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": ""
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "aftermath",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈɑːftəmæθ//ˈɑːftəmɑːθ/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aft/after/aftermath__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": ""
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "activist",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈæktɪvɪst/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/activ/activist__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈæktɪvɪst/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/activ/activist__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "alongside",
+		"result": {
+			"lexicalCategory": "adverb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˌlɒŋˈsaɪd/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alo/along/alongside__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˌlɔːŋˈsaɪd/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alo/along/alongside__us_2.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "adequately",
+		"result": {
+			"lexicalCategory": "adverb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈædɪkwətli/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ade/adequ/adequately__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈædɪkwətli/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ade/adequ/adequately__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "aide",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/eɪd/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aid/aid__/aid__gb_2.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/eɪd/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aid/aide_/aide__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "analyst",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈænəlɪst/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ana/analy/analyst__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈænəlɪst/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ana/analy/analyst__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "a person whose job involves examining facts or materials in order to give an opinion on them",
+				"examples": [
+					"a political/financial analyst",
+					"a food/market analyst",
+					"He's a senior research analyst at Deutsche Bank.",
+					"analysts expect/predict…",
+					"City analysts forecast huge profits this year.",
+					"according to an analyst According to music industry analysts, music downloads are set to decline by as much as 30 per cent this year.",
+					"a leading business analyst",
+					"She's an investment analyst with a big City firm.",
+					"This view is backed up by several independent political analysts in Washington."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "aggression",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈɡreʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/agg/aggre/aggression__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈɡreʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/agg/aggre/aggression__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "feelings of anger and hate that may result in threatening or violent behaviour",
+				"examples": [
+					"The research shows that computer games may cause aggression.",
+					"Nowadays our aggression is channelled into sports.",
+					"Do toy guns encourage aggression?",
+					"He managed to channel his aggression into sport.",
+					"It showed no aggression towards other dogs.",
+					"a display of naked aggression",
+					"ways of releasing pent-up aggression",
+					"unprovoked military aggression",
+					"Acts of aggression against local shop owners should be reported to the police.",
+					"Aggression by one nationality against another often leads to war.",
+					"The president announced that the country would not tolerate foreign aggressions."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "accusation",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˌækjuˈzeɪʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accus/accusation__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˌækjuˈzeɪʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accus/accusation__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "accuracy",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈækjərəsi/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accur/accuracy__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈækjərəsi/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accur/accuracy__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "the state of being exact or correct; the ability to do something with skill and without making mistakes",
+				"examples": [
+					"They questioned the accuracy of the information in the file.",
+					"Candidates are judged on technical accuracy as well as artistic expression.",
+					"She hits the ball with great accuracy.",
+					"Great care is taken to ensure the accuracy of research data.",
+					"He predicted the election results with uncanny accuracy.",
+					"It is possible to predict the outcome with reasonable accuracy.",
+					"Many people began to question the accuracy of his statement.",
+					"The film-makers went to great lengths to achieve historical accuracy in every detail.",
+					"The missiles are capable of a very high degree of accuracy.",
+					"The needle has to be positioned with pinpoint accuracy.",
+					"We are hoping to improve the accuracy of our forecasts.",
+					"the accuracy of radiocarbon dating",
+					"to achieve accuracies of 50–70 per cent"
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "adaptation",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˌædæpˈteɪʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ada/adapt/adaptation__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˌædæpˈteɪʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ada/adapt/adaptation__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "the action or process of changing something, or of being changed, to suit a new purpose or situation",
+				"examples": [
+					"the adaptation of buildings for military purposes",
+					"adaptation to something The process of adaptation to a new school is difficult for some children.",
+					"making adaptations to your home",
+					"a screen adaptation of Shakespeare’s ‘Macbeth’",
+					"the adaptation of desert species to the hot conditions",
+					"Adaptations in plants occur over thousands of years."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "amid",
+		"result": {
+			"lexicalCategory": "preposition",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈmɪd/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ami/amid_/amid__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈmɪd/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ami/amid_/amid__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "in the middle of or during something, especially something that causes excitement or fear",
+				"examples": [
+					"He finished his speech amid tremendous applause.",
+					"The firm collapsed amid allegations of fraud.",
+					"The hotel was in a beautiful position amid lemon groves."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "agricultural",
+		"result": {
+			"lexicalCategory": "adjective",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˌæɡrɪˈkʌltʃərəl/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/agr/agric/agricultural__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˌæɡrɪˈkʌltʃərəl/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/agr/agric/agricultural__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "activate",
+		"result": {
+			"lexicalCategory": "verb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈæktɪveɪt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/activ/activate__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈæktɪveɪt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/activ/activate__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [
+				{
+					"sense": "Past simple",
+					"word": "activated",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/activ/activated__gb_1.mp3",
+							"spell": "/ˈæktɪveɪtɪd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/activ/activated__us_1.mp3",
+							"spell": "/ˈæktɪveɪtɪd/"
+						}
+					]
+				},
+				{
+					"sense": "Past participle",
+					"word": "activated",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/activ/activated__gb_1.mp3",
+							"spell": "/ˈæktɪveɪtɪd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/activ/activated__us_1.mp3",
+							"spell": "/ˈæktɪveɪtɪd/"
+						}
+					]
+				},
+				{
+					"sense": "-ing form",
+					"word": "activating",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/activ/activating__gb_1.mp3",
+							"spell": "/ˈæktɪveɪtɪŋ/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/activ/activating__us_1.mp3",
+							"spell": "/ˈæktɪveɪtɪŋ/"
+						}
+					]
+				}
+			],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": [
+				{
+					"sense": "Present simple",
+					"plural": {
+						"text": "I / You / We / They",
+						"word": "activate",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/activ/activate__gb_1.mp3",
+								"spell": "/ˈæktɪveɪt/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/activ/activate__us_1.mp3",
+								"spell": "/ˈæktɪveɪt/"
+							}
+						]
+					},
+					"singular": {
+						"text": "He / She / It",
+						"word": "activates",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/activ/activates__gb_1.mp3",
+								"spell": "/ˈæktɪveɪts/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/activ/activates__us_1.mp3",
+								"spell": "/ˈæktɪveɪts/"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	{
+		"word": "appealing",
+		"result": {
+			"lexicalCategory": "adjective",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈpiːlɪŋ/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appea/appealing__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈpiːlɪŋ/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appea/appealing__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "attractive or interesting",
+				"examples": [
+					"Spending the holidays in Britain wasn't a prospect that I found particularly appealing.",
+					"Brightly coloured packaging made the pens especially appealing to children.",
+					"The large salary made their offer even more appealing to him.",
+					"‘Would you really help?’ he said with an appealing look."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "administrative",
+		"result": {
+			"lexicalCategory": "adjective",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ədˈmɪnɪstrətɪv/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adm/admin/administrative__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ədˈmɪnɪstreɪtɪv/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adm/admin/administrative__us_1_rr.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "alliance",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈlaɪəns/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/allia/alliance__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈlaɪəns/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/allia/alliance__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "an agreement between countries, political parties, etc. to work together in order to achieve something that they all want",
+				"examples": [
+					"to form/make an alliance",
+					"alliance with somebody/something The Social Democrats are now in alliance with the Greens.",
+					"alliance between A and B an alliance between education and business to develop the use of technology in schools",
+					"The government has tried to forge alliances with environmentalists.",
+					"The government, in alliance with the army, has decided to ban all public meetings for a month.",
+					"The marriage was meant to cement the alliance between the two countries.",
+					"The uneasy alliance between such different people just cannot last.",
+					"They broke off the alliance with Sparta.",
+					"They have alliances with other companies.",
+					"an alliance with China",
+					"an unholy alliance between the Fascists and the Communists",
+					"old alliances against enemies that no longer exist",
+					"the shifting alliances among the various political groups",
+					"The Green Alliance was formed to campaign against environmental damage.",
+					"Seven more countries have been invited to join the alliance.",
+					"The organization is a broad alliance of many different groups.",
+					"The Movement for Multiparty Democracy was a loose alliance of opposition parties.",
+					"The right-wing alliance was dedicated to promoting Afrikaner self-determination."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "aids",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/eɪdz/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aid/aids_/aids__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/eɪdz/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aid/aids_/aids__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "anticipate",
+		"result": {
+			"lexicalCategory": "verb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ænˈtɪsɪpeɪt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ant/antic/anticipate__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ænˈtɪsɪpeɪt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ant/antic/anticipate__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [
+				{
+					"sense": "Past simple",
+					"word": "anticipated",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ant/antic/anticipated__gb_1.mp3",
+							"spell": "/ænˈtɪsɪpeɪtɪd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ant/antic/anticipated__us_1.mp3",
+							"spell": "/ænˈtɪsɪpeɪtɪd/"
+						}
+					]
+				},
+				{
+					"sense": "Past participle",
+					"word": "anticipated",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ant/antic/anticipated__gb_1.mp3",
+							"spell": "/ænˈtɪsɪpeɪtɪd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ant/antic/anticipated__us_1.mp3",
+							"spell": "/ænˈtɪsɪpeɪtɪd/"
+						}
+					]
+				},
+				{
+					"sense": "-ing form",
+					"word": "anticipating",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ant/antic/anticipating__gb_1.mp3",
+							"spell": "/ænˈtɪsɪpeɪtɪŋ/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ant/antic/anticipating__us_1.mp3",
+							"spell": "/ænˈtɪsɪpeɪtɪŋ/"
+						}
+					]
+				}
+			],
+			"senses": {
+				"text": "to expect something",
+				"examples": [
+					"anticipate something We don't anticipate any major problems.",
+					"Our anticipated arrival time is 8.30.",
+					"The eagerly anticipated movie will be released next month.",
+					"anticipate doing something They anticipate moving to bigger premises by the end of the year.",
+					"anticipate something doing something I don't anticipate it being a problem.",
+					"anticipate that… We anticipate that sales will rise next year.",
+					"it is anticipated that… It is anticipated that inflation will stabilize at 3 per cent.",
+					"The band today announced details of their widely anticipated third album.",
+					"The dog sat up, anticipating a biscuit.",
+					"anticipate something We need someone who can anticipate and respond to changes in the fashion industry.",
+					"anticipate what, how, that, etc… Try and anticipate what the interviewers will ask.",
+					"We eagerly anticipated the day we would leave school.",
+					"The more I anticipated arriving somewhere, the more disappointed I was.",
+					"When Scott reached the South Pole he found that Amundsen had anticipated him."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": [
+				{
+					"sense": "Present simple",
+					"plural": {
+						"text": "I / You / We / They",
+						"word": "anticipate",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ant/antic/anticipate__gb_1.mp3",
+								"spell": "/ænˈtɪsɪpeɪt/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ant/antic/anticipate__us_1.mp3",
+								"spell": "/ænˈtɪsɪpeɪt/"
+							}
+						]
+					},
+					"singular": {
+						"text": "He / She / It",
+						"word": "anticipates",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ant/antic/anticipates__gb_1.mp3",
+								"spell": "/ænˈtɪsɪpeɪts/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ant/antic/anticipates__us_1.mp3",
+								"spell": "/ænˈtɪsɪpeɪts/"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	{
+		"word": "additionally",
+		"result": {
+			"lexicalCategory": "adverb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈdɪʃənəli/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/add/addit/additionally__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈdɪʃənəli/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/add/addit/additionally__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "administrator",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ədˈmɪnɪstreɪtə(r)/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adm/admin/administrator__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ədˈmɪnɪstreɪtər/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adm/admin/administrator__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "a person whose job is to manage and organize the public or business affairs of a company or an institution, or a person who works in an office dealing with records, accounts, etc.",
+				"examples": [
+					"Such organizational decisions are made by the hospital administrators.",
+					"For an application form, please contact our administrator.",
+					"He is known as a good manager and an efficient administrator.",
+					"He worked for 20 years as an administrator for the National Savings bank.",
+					"She was one of the most senior administrators of the exchange programme.",
+					"If you are unable to access the site, contact your system administrator."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "aluminium",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˌæljəˈmɪniəm//ˌæləˈmɪniəm/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alu/alumi/aluminium__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": ""
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "adhere",
+		"result": {
+			"lexicalCategory": "verb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ədˈhɪə(r)/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adh/adher/adhere__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ədˈhɪr/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adh/adher/adhere__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [
+				{
+					"sense": "Past simple",
+					"word": "adhered",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adh/adher/adhered__gb_1.mp3",
+							"spell": "/ədˈhɪəd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adh/adher/adhered__us_1.mp3",
+							"spell": "/ədˈhɪrd/"
+						}
+					]
+				},
+				{
+					"sense": "Past participle",
+					"word": "adhered",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adh/adher/adhered__gb_1.mp3",
+							"spell": "/ədˈhɪəd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adh/adher/adhered__us_1.mp3",
+							"spell": "/ədˈhɪrd/"
+						}
+					]
+				},
+				{
+					"sense": "-ing form",
+					"word": "adhering",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adh/adher/adhering__gb_1.mp3",
+							"spell": "/ədˈhɪərɪŋ/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adh/adher/adhering__us_1.mp3",
+							"spell": "/ədˈhɪrɪŋ/"
+						}
+					]
+				}
+			],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [
+				"adhere to"
+			],
+			"verb_simple": [
+				{
+					"sense": "Present simple",
+					"plural": {
+						"text": "I / You / We / They",
+						"word": "adhere",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adh/adher/adhere__gb_1.mp3",
+								"spell": "/ədˈhɪə(r)/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adh/adher/adhere__us_1.mp3",
+								"spell": "/ədˈhɪr/"
+							}
+						]
+					},
+					"singular": {
+						"text": "He / She / It",
+						"word": "adheres",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adh/adher/adheres__gb_1.mp3",
+								"spell": "/ədˈhɪəz/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adh/adher/adheres__us_1.mp3",
+								"spell": "/ədˈhɪrz/"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	{
+		"word": "adjustment",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈdʒʌstmənt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adj/adjus/adjustment__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈdʒʌstmənt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adj/adjus/adjustment__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "a small change made to something in order to correct or improve it",
+				"examples": [
+					"I've made a few adjustments to the design.",
+					"Some adjustment of the lens may be necessary.",
+					"The dosage may need adjustment to suit the individual.",
+					"The mechanic made the necessary adjustments to the engine.",
+					"a cut of 1.5% in real terms (after adjustment for inflation)",
+					"a few minor adjustments to the schedule",
+					"adjustments in the exchange rates",
+					"She went through a period of emotional adjustment after her marriage broke up.",
+					"The process of adjustment to life in another country can be very difficult.",
+					"There was a long period of adjustment under the new boss."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "acre",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈeɪkə(r)/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acr/acre_/acre__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈeɪkər/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acr/acre_/acre__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "allege",
+		"result": {
+			"lexicalCategory": "verb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈledʒ/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/alleg/allege__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈledʒ/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/alleg/allege__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [
+				{
+					"sense": "Past simple",
+					"word": "alleged",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/alleg/alleged__gb_3.mp3",
+							"spell": "/əˈledʒd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/alleg/alleged__us_1.mp3",
+							"spell": "/əˈledʒd/"
+						}
+					]
+				},
+				{
+					"sense": "Past participle",
+					"word": "alleged",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/alleg/alleged__gb_3.mp3",
+							"spell": "/əˈledʒd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/alleg/alleged__us_1.mp3",
+							"spell": "/əˈledʒd/"
+						}
+					]
+				},
+				{
+					"sense": "-ing form",
+					"word": "alleging",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/alleg/alleging__gb_1.mp3",
+							"spell": "/əˈledʒɪŋ/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/alleg/alleging__us_1.mp3",
+							"spell": "/əˈledʒɪŋ/"
+						}
+					]
+				}
+			],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": [
+				{
+					"sense": "Present simple",
+					"plural": {
+						"text": "I / You / We / They",
+						"word": "allege",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/alleg/allege__gb_1.mp3",
+								"spell": "/əˈledʒ/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/alleg/allege__us_1.mp3",
+								"spell": "/əˈledʒ/"
+							}
+						]
+					},
+					"singular": {
+						"text": "He / She / It",
+						"word": "alleges",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/alleg/alleges__gb_1.mp3",
+								"spell": "/əˈledʒɪz/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/alleg/alleges__us_1.mp3",
+								"spell": "/əˈledʒɪz/"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	{
+		"word": "animation",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˌænɪˈmeɪʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ani/anima/animation__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˌænɪˈmeɪʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ani/anima/animation__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "the process of making films, videos and computer games in which drawings, models or images of people and animals seem to move",
+				"examples": [
+					"computer/cartoon animation",
+					"The electronic dictionary included some animations.",
+					"His face was drained of all colour and animation.",
+					"She talked about her new job with great animation."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "admission",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ədˈmɪʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adm/admis/admission__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ədˈmɪʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adm/admis/admission__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "the act of accepting somebody into an institution, organization, etc.; the right to enter a place or to join an institution or organization",
+				"examples": [
+					"Hospital admission is not necessary in most cases.",
+					"Hospital admissions for asthma attacks have doubled.",
+					"the university admissions policy/office",
+					"They tried to get into the club but were refused admission.",
+					"She failed to gain admission to the university of her choice.",
+					"Is there any charge for admission?",
+					"There was a steady decline in cinema admissions during the 1960s.",
+					"admission to something countries applying for admission to the European Union",
+					"Last admissions to the park are at 4 p.m.",
+					"He's applied for admission to the local college.",
+					"On admission to hospital you will be examined by a doctor.",
+					"emergency admissions to hospital",
+					"hospital admission rates",
+					"to gain admission to one of the best schools",
+					"Admission is by ticket only.",
+					"Last admission 30 minutes before closing time.",
+					"She works in the college admissions office",
+					"The country has applied for admission to the European Union.",
+					"He is a thief by his own admission (= he has admitted it).",
+					"admission of something an admission of guilt/failure/defeat",
+					"admission that… The minister's resignation was an admission that she had lied.",
+					"She has made no admission of any involvement in the plot.",
+					"She saw his leaving the company as an admission of failure.",
+					"This is a clear admission that you were wrong.",
+					"By his own admission he should never have driven so fast.",
+					"admission charges/prices",
+					"£5 admission",
+					"What's the admission?",
+					"There is an admission fee of $10.",
+					"Admission is free and no booking is required."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "altogether",
+		"result": {
+			"lexicalCategory": "adverb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˌɔːltəˈɡeðə(r)/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/alt/altog/altogether__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˌɔːltəˈɡeðər/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/alt/altog/altogether__us_1_rr.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "(used to emphasize something) completely; in every way",
+				"examples": [
+					"The train went slower and slower until it stopped altogether.",
+					"I don't altogether agree with you.",
+					"I am not altogether happy (= I am very unhappy) about the decision.",
+					"It was an altogether different situation.",
+					"I’m not altogether convinced, I’m afraid.",
+					"You owe me £68 altogether.",
+					"We have invited fifty people altogether.",
+					"I am not altogether convinced by this argument.",
+					"Can you put your books all together in this box?",
+					"Let’s sing ‘Happy Birthday’. All together now!",
+					"The food was good and we loved the music. Altogether it was a great evening."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "alert",
+		"result": {
+			"lexicalCategory": "verb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈlɜːt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ale/alert/alert__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈlɜːrt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ale/alert/alert__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [
+				{
+					"sense": "Past simple",
+					"word": "alerted",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ale/alert/alerted__gb_1.mp3",
+							"spell": "/əˈlɜːtɪd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ale/alert/alerted__us_1.mp3",
+							"spell": "/əˈlɜːrtɪd/"
+						}
+					]
+				},
+				{
+					"sense": "Past participle",
+					"word": "alerted",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ale/alert/alerted__gb_1.mp3",
+							"spell": "/əˈlɜːtɪd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ale/alert/alerted__us_1.mp3",
+							"spell": "/əˈlɜːrtɪd/"
+						}
+					]
+				},
+				{
+					"sense": "-ing form",
+					"word": "alerting",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ale/alert/alerting__gb_1.mp3",
+							"spell": "/əˈlɜːtɪŋ/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ale/alert/alerting__us_1.mp3",
+							"spell": "/əˈlɜːrtɪŋ/"
+						}
+					]
+				}
+			],
+			"senses": {
+				"text": "to warn somebody about a dangerous situation or one that requires immediate action",
+				"examples": [
+					"alert somebody Neighbours quickly alerted the emergency services.",
+					"(be) alerted by something Alerted by a noise downstairs, he sat up and turned on the light.",
+					"be alerted that… The coastguard were alerted that a yacht had run into difficulties.",
+					"be alerted to something They had been alerted to the possibility of further price rises."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": [
+				{
+					"sense": "Present simple",
+					"plural": {
+						"text": "I / You / We / They",
+						"word": "alert",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ale/alert/alert__gb_1.mp3",
+								"spell": "/əˈlɜːt/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ale/alert/alert__us_1.mp3",
+								"spell": "/əˈlɜːrt/"
+							}
+						]
+					},
+					"singular": {
+						"text": "He / She / It",
+						"word": "alerts",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ale/alert/alerts__gb_1.mp3",
+								"spell": "/əˈlɜːts/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ale/alert/alerts__us_1.mp3",
+								"spell": "/əˈlɜːrts/"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	{
+		"word": "alignment",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈlaɪnmənt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ali/align/alignment__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈlaɪnmənt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ali/align/alignment__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "arrangement in a straight line",
+				"examples": [
+					"the alignment of the sun, moon and earth at a particular time",
+					"A bone in my spine was out of alignment.",
+					"The door needs to be in alignment with the frame before you start work on it.",
+					"Japan’s alignment with the West",
+					"China has formed a close alignment with some African countries.",
+					"IT needs to have a closer alignment to business.",
+					"It has been very difficult to maintain the alignment between the two countries since the trade dispute."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "allocate",
+		"result": {
+			"lexicalCategory": "verb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈæləkeɪt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/alloc/allocate__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈæləkeɪt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/alloc/allocate__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [
+				{
+					"sense": "Past simple",
+					"word": "allocated",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/alloc/allocated__gb_1.mp3",
+							"spell": "/ˈæləkeɪtɪd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/alloc/allocated__us_1.mp3",
+							"spell": "/ˈæləkeɪtɪd/"
+						}
+					]
+				},
+				{
+					"sense": "Past participle",
+					"word": "allocated",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/alloc/allocated__gb_1.mp3",
+							"spell": "/ˈæləkeɪtɪd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/alloc/allocated__us_1.mp3",
+							"spell": "/ˈæləkeɪtɪd/"
+						}
+					]
+				},
+				{
+					"sense": "-ing form",
+					"word": "allocating",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/alloc/allocating__gb_1.mp3",
+							"spell": "/ˈæləkeɪtɪŋ/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/alloc/allocating__us_1.mp3",
+							"spell": "/ˈæləkeɪtɪŋ/"
+						}
+					]
+				}
+			],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": [
+				{
+					"sense": "Present simple",
+					"plural": {
+						"text": "I / You / We / They",
+						"word": "allocate",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/alloc/allocate__gb_1.mp3",
+								"spell": "/ˈæləkeɪt/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/alloc/allocate__us_1.mp3",
+								"spell": "/ˈæləkeɪt/"
+							}
+						]
+					},
+					"singular": {
+						"text": "He / She / It",
+						"word": "allocates",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/alloc/allocates__gb_1.mp3",
+								"spell": "/ˈæləkeɪts/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/alloc/allocates__us_1.mp3",
+								"spell": "/ˈæləkeɪts/"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	{
+		"word": "amend",
+		"result": {
+			"lexicalCategory": "verb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈmend/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ame/amend/amend__gb_2.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈmend/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ame/amend/amend__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [
+				{
+					"sense": "Past simple",
+					"word": "amended",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ame/amend/amended__gb_1.mp3",
+							"spell": "/əˈmendɪd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ame/amend/amended__us_1.mp3",
+							"spell": "/əˈmendɪd/"
+						}
+					]
+				},
+				{
+					"sense": "Past participle",
+					"word": "amended",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ame/amend/amended__gb_1.mp3",
+							"spell": "/əˈmendɪd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ame/amend/amended__us_1.mp3",
+							"spell": "/əˈmendɪd/"
+						}
+					]
+				},
+				{
+					"sense": "-ing form",
+					"word": "amending",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ame/amend/amending__gb_1.mp3",
+							"spell": "/əˈmendɪŋ/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ame/amend/amending__us_1.mp3",
+							"spell": "/əˈmendɪŋ/"
+						}
+					]
+				}
+			],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": [
+				{
+					"sense": "Present simple",
+					"plural": {
+						"text": "I / You / We / They",
+						"word": "amend",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ame/amend/amend__gb_2.mp3",
+								"spell": "/əˈmend/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ame/amend/amend__us_1.mp3",
+								"spell": "/əˈmend/"
+							}
+						]
+					},
+					"singular": {
+						"text": "He / She / It",
+						"word": "amends",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ame/amend/amends__gb_1.mp3",
+								"spell": "/əˈmendz/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ame/amend/amends__us_1.mp3",
+								"spell": "/əˈmendz/"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	{
+		"word": "agriculture",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈæɡrɪkʌltʃə(r)/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/agr/agric/agriculture__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈæɡrɪkʌltʃər/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/agr/agric/agriculture__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "accounting",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈkaʊntɪŋ/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accou/accounting__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈkaʊntɪŋ/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accou/accounting__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "amusing",
+		"result": {
+			"lexicalCategory": "adjective",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈmjuːzɪŋ/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/amu/amusi/amusing__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈmjuːzɪŋ/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/amu/amusi/amusing__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "ally",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈælaɪ/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/ally_/ally__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈælaɪ/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/ally_/ally__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "a country that has agreed to help and support another country, especially in case of a war",
+				"examples": [
+					"our European/NATO allies",
+					"a loyal ally of the United States",
+					"Portugal is a traditional ally of England.",
+					"a close ally and friend of the prime minister",
+					"her most powerful political ally",
+					"His sister was his ally against their grandparents.",
+					"Charles remained a close ally of the French king.",
+					"He now had an ally against his boss.",
+					"Jane felt that she had an ally.",
+					"She had found an ally in her old teacher.",
+					"the Western Allies"
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "acute",
+		"result": {
+			"lexicalCategory": "adjective",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈkjuːt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acu/acute/acute__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈkjuːt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acu/acute/acute__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "very serious or severe",
+				"examples": [
+					"There is an acute shortage of water.",
+					"acute pain",
+					"the world’s acute environmental problems",
+					"Competition for jobs is acute.",
+					"The scandal was an acute embarrassment for the President.",
+					"He was suffering from acute chest pains.",
+					"acute appendicitis",
+					"acute patients",
+					"an acute ward",
+					"Dogs have an acute sense of smell.",
+					"He is an acute observer of the social scene.",
+					"Her judgement is acute."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "acquisition",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˌækwɪˈzɪʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acq/acqui/acquisition__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˌækwɪˈzɪʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acq/acqui/acquisition__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "the act of getting something, especially knowledge, a skill, etc.",
+				"examples": [
+					"theories of child language acquisition",
+					"His latest acquisition is a racehorse.",
+					"The money will be spent on acquisitions for the university library.",
+					"They have made acquisitions in several EU countries.",
+					"the acquisition of shares by employees",
+					"The group has announced its first overseas acquisition: a successful software company.",
+					"The company has just made another acquisition."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "anxiety",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/æŋˈzaɪəti/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anx/anxie/anxiety__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/æŋˈzaɪəti/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/anx/anxie/anxiety__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "the state of feeling nervous or worried that something bad is going to happen",
+				"examples": [
+					"acute/intense/deep anxiety",
+					"Some hospital patients experience high levels of anxiety.",
+					"Waiting for exam results is a time of great anxiety.",
+					"A lot of anxiety surrounds the issue of human cloning.",
+					"His face betrayed his anxiety.",
+					"The aim is to reduce anxiety and help the patients relax.",
+					"The more reports I study the more my anxiety grows.",
+					"We seem to live in a state of free-floating anxiety that can attach itself to anything.",
+					"anxiety at the deterioration of relations between the powers",
+					"I keep having this anxiety dream where I've forgotten to do something important.",
+					"Some people are feeling the pressure and suffering from anxiety and depression.",
+					"patients suffering from an anxiety disorder",
+					"If you're worried about your health, share your anxieties with your doctor.",
+					"A few anxieties surfaced during the meeting.",
+					"There are anxieties over the effects of unemployment.",
+					"They were encouraged to express their fears and anxieties.",
+					"anxiety to do something the candidate’s anxiety to win the vote",
+					"A couple of photographers fell over themselves in their anxiety to get a shot of her.",
+					"anxiety for something the people’s anxiety for the war to end"
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "adoption",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈdɒpʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ado/adopt/adoption__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈdɑːpʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ado/adopt/adoption__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "the act of adopting a child; the fact of being adopted",
+				"examples": [
+					"She put the baby up for adoption.",
+					"The number of adoptions has fallen markedly since the 1970s.",
+					"adoption into something his adoption into an American family",
+					"They were so happy when the adoption went through successfully.",
+					"When will the child be available for adoption?",
+					"The widespread adoption of new information technology could save $162 billion a year.",
+					"The committee recommended the adoption of new safety procedures.",
+					"his adoption as the Labour candidate",
+					"The party announced the formal adoption of George Smith as their election candidate."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "align",
+		"result": {
+			"lexicalCategory": "verb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈlaɪn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ali/align/align__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈlaɪn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ali/align/align__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [
+				{
+					"sense": "Past simple",
+					"word": "aligned",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ali/align/aligned__gb_1.mp3",
+							"spell": "/əˈlaɪnd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ali/align/aligned__us_1.mp3",
+							"spell": "/əˈlaɪnd/"
+						}
+					]
+				},
+				{
+					"sense": "Past participle",
+					"word": "aligned",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ali/align/aligned__gb_1.mp3",
+							"spell": "/əˈlaɪnd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ali/align/aligned__us_1.mp3",
+							"spell": "/əˈlaɪnd/"
+						}
+					]
+				},
+				{
+					"sense": "-ing form",
+					"word": "aligning",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ali/align/aligning__gb_1.mp3",
+							"spell": "/əˈlaɪnɪŋ/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ali/align/aligning__us_1.mp3",
+							"spell": "/əˈlaɪnɪŋ/"
+						}
+					]
+				}
+			],
+			"senses": {
+				"text": "to arrange something in the correct position, or to be in the correct position, in relation to something else, especially in a straight line",
+				"examples": [
+					"Make sure the shelf is aligned with the top of the cupboard.",
+					"The top and bottom line of each column on the page should align.",
+					"This pillar is roughly aligned with the others.",
+					"The house is aligned along an east-west axis.",
+					"Domestic prices have been aligned with those in world markets."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [
+				"align yourself with"
+			],
+			"verb_simple": [
+				{
+					"sense": "Present simple",
+					"plural": {
+						"text": "I / You / We / They",
+						"word": "align",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ali/align/align__gb_1.mp3",
+								"spell": "/əˈlaɪn/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ali/align/align__us_1.mp3",
+								"spell": "/əˈlaɪn/"
+							}
+						]
+					},
+					"singular": {
+						"text": "He / She / It",
+						"word": "aligns",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ali/align/aligns__gb_1.mp3",
+								"spell": "/əˈlaɪnz/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ali/align/aligns__us_1.mp3",
+								"spell": "/əˈlaɪnz/"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	{
+		"word": "accessible",
+		"result": {
+			"lexicalCategory": "adjective",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əkˈsesəbl/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/acces/accessible__gb_4.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əkˈsesəbl/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/acces/accessible__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "that can be reached, entered, used, seen, etc.",
+				"examples": [
+					"The remote desert area is accessible only by helicopter.",
+					"accessible to somebody These documents are not accessible to the public.",
+					"The garden is accessible from the lane.",
+					"The museum is easily accessible by public transport.",
+					"accessible toilets for wheelchair users",
+					"The beach should be accessible to everyone.",
+					"Her poetry is always very accessible.",
+					"accessible to somebody a programme making science more accessible to young people",
+					"The text is extremely accessible and the language beautiful.",
+					"The programme tries to make science more accessible to young people.",
+					"a very accessible account of Korean history",
+					"The cartoon strips are designed to make Shakespeare accessible to children.",
+					"It is written in simple language, immediately accessible to the reader."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "absence",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈæbsəns/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/absen/absence__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈæbsəns/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abs/absen/absence__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "the fact of somebody being away from a place where they are usually expected to be; the occasion or period of time when somebody is away",
+				"examples": [
+					"in somebody's absence The decision was made in my absence (= while I was not there).",
+					"We did not receive any news during his long absence.",
+					"absence from… absence from work",
+					"repeated absences from school",
+					"My father did all the cooking in my mother's absence.",
+					"Nobody had noticed her absence.",
+					"You will not be paid for the full period of absence.",
+					"Your son has had too many absences from school.",
+					"I was surprised by the absence of any women on the board of directors.",
+					"in the absence of somebody/something The case was dismissed in the absence of any definite proof.",
+					"In the absence of stone, most houses in the area are built of wood.",
+					"a conspicuous absence of evidence"
+				]
+			},
+			"idioms": [
+				{
+					"text": "absence makes the heart grow fonder ",
+					"sense": "used to say that when you are away from somebody that you love, you love them even more",
+					"examples": []
+				},
+				{
+					"text": "conspicuous by your absence ",
+					"sense": "not present in a situation or place, when it is obvious that you should be there",
+					"examples": [
+						"When it came to cleaning up afterwards, Anne was conspicuous by her absence.",
+						"The meeting went well but Nigel was conspicuous by his absence."
+					]
+				}
+			],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "anonymous",
+		"result": {
+			"lexicalCategory": "adjective",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈnɒnɪməs/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ano/anony/anonymous__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈnɑːnɪməs/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ano/anony/anonymous__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "with a name that is not known or that is not made public",
+				"examples": [
+					"an anonymous donor",
+					"The money was donated by a local businessman who wishes to remain anonymous.",
+					"the largely anonymous perpetrators of terrorist acts",
+					"an anonymous letter",
+					"long stretches of dull and anonymous countryside",
+					"new housing estates with their anonymous tower blocks and large barren spaces"
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "acceptance",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əkˈseptəns/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accep/acceptance__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əkˈseptəns/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accep/acceptance__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "the act of accepting a gift, an invitation, an offer, etc.",
+				"examples": [
+					"Please confirm your acceptance of this offer in writing.",
+					"He made a short acceptance speech/speech of acceptance.",
+					"Invitations have been sent out and 80 acceptances have already been received.",
+					"So far we have had one refusal and three acceptances.",
+					"The new laws have gained widespread acceptance.",
+					"A new theory emerged that quickly gained wide acceptance.",
+					"The idea was slow to gain general acceptance.",
+					"Their attitude was condemned as blind acceptance of authority.",
+					"These concepts have gained broad acceptance among scientists.",
+					"society's acceptance of homosexuality",
+					"The Assembly voted against acceptance of constitutional reform.",
+					"The aim was to secure recognition and acceptance of national boundaries by all member states.",
+					"The government needed to win acceptance for its economic package.",
+					"There is growing acceptance of the view that education is the basis for economic success.",
+					"Your acceptance into the insurance plan is guaranteed.",
+					"Social acceptance is important for most young people.",
+					"The group is now seeking formal acceptance.",
+					"acceptance of death/suffering"
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "ancestor",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈænsestə(r)/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anc/ances/ancestor__gb_4.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈænsestər/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/anc/ances/ancestor__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "a person in your family who lived a long time ago",
+				"examples": [
+					"His ancestors had come to America from Ireland.",
+					"He can trace his ancestors back to the reign of Elizabeth I.",
+					"He claims as his literary ancestors such giants as Henry James and William Faulkner.",
+					"Our earliest ancestors lived in a world fraught with danger.",
+					"The Romans built these monuments to glorify their illustrious ancestors.",
+					"The builder of the house was a direct ancestor of the present owner.",
+					"The two species share a common ancestor.",
+					"They honour/​honor their ancestors and believe in the spirits of nature.",
+					"a distant ancestor of mine",
+					"a reptile that was the common ancestor of lizards and turtles",
+					"The ancestor of the modern bicycle was called a penny-farthing."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "amendment",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈmendmənt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ame/amend/amendment__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈmendmənt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ame/amend/amendment__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "a small change or improvement that is made to a document or proposed new law; the process of changing a document or proposed new law",
+				"examples": [
+					"to introduce/propose/table an amendment (= to suggest it)",
+					"Parliament passed the bill without further amendment.",
+					"amendment to something She made several minor amendments to her essay.",
+					"In total 217 MPs backed the rebel amendment opposing the government.",
+					"On a free vote, the amendment was carried by 292 votes to 246.",
+					"Parliament accepted the amendment and the bill was passed.",
+					"She withdrew her amendment and left the meeting.",
+					"The Senate added numerous amendments to the bill.",
+					"The committee does not adequately consult others when drafting amendments.",
+					"The new clause was accepted without amendment.",
+					"The programme is subject to amendment.",
+					"an amendment to the Clean Water Act",
+					"The 19th Amendment gave women the right to vote.",
+					"He is simply exercising his First-Amendment rights.",
+					"a call to repeal the 22nd amendment to the Constitution",
+					"They have proposed an amendment to the federal constitution.",
+					"a constitutional amendment allowing same-sex marriage"
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "allegation",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˌæləˈɡeɪʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/alleg/allegation__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˌæləˈɡeɪʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/alleg/allegation__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "analogy",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈnælədʒi/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ana/analo/analogy__gb_2.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈnælədʒi/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ana/analo/analogy__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "a comparison of one thing with another thing that has similar features; a feature that is similar",
+				"examples": [
+					"analogy (between A and B) The teacher drew an analogy between the human heart and a pump.",
+					"analogy (with something) There are no analogies with any previous legal cases.",
+					"She suggested an analogy between the human heart and a pump.",
+					"The Wild West analogy does not fit here.",
+					"There is an analogy here with the way an engine works.",
+					"The computer is a useful analogy for the brain.",
+					"learning by analogy",
+					"We can understand this theory by analogy with human beings."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "alike",
+		"result": {
+			"lexicalCategory": "adverb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈlaɪk/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ali/alike/alike__gb_2.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈlaɪk/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ali/alike/alike__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "in a very similar way",
+				"examples": [
+					"They tried to treat all their children alike.",
+					"Good management benefits employers and employees alike."
+				]
+			},
+			"idioms": [
+				{
+					"text": "great minds think alike ",
+					"sense": "used to say that you and another person must both be very clever because you have had the same idea or agree about something",
+					"examples": []
+				},
+				{
+					"text": "share and share alike ",
+					"sense": "used to say that everyone should share things equally and in a fair way",
+					"examples": []
+				}
+			],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "allocation",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˌæləˈkeɪʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/alloc/allocation__gb_2.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˌæləˈkeɪʃn/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/alloc/allocation__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "an amount of money, space, etc. that is given to somebody for a particular purpose",
+				"examples": [
+					"We have spent our entire allocation for the year.",
+					"The allocation must be made according to a strict set of criteria.",
+					"The charity is trying to get its allocation increased for next year.",
+					"The school gave them a generous allocation of money with which to purchase books.",
+					"The project was financed by an allocation of funds from the National Lottery.",
+					"the allocation of food to those who need it most"
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "allowance",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈlaʊəns/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/allow/allowance__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈlaʊəns/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/allow/allowance__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "an amount of money that is given to somebody regularly or for a particular purpose",
+				"examples": [
+					"an allowance of $20 a day",
+					"a clothing/living/travel allowance",
+					"Do you get an allowance for clothing?",
+					"She spends her allowance on clothes.",
+					"The weekly allowance for each child is £15.",
+					"You may be entitled to a housing allowance if you are in a low-paid job.",
+					"The grant includes a travel allowance of £60 and a book allowance of £250.",
+					"They receive an invalid care allowance for their disabled daughter.",
+					"a baggage allowance of 20 kilos",
+					"Roman soldiers received a salt allowance, called salarium, the origin of the word salary.",
+					"The recommended daily allowance of vitamin C is 60–90 milligrams.",
+					"personal tax allowances"
+				]
+			},
+			"idioms": [
+				{
+					"text": "make allowance(s) for something ",
+					"sense": "to consider something, for example when you are making a decision or planning something",
+					"examples": [
+						"The budget made allowance for inflation.",
+						"The plan makes no allowance for people working at different rates."
+					]
+				},
+				{
+					"text": "make allowances (for somebody) ",
+					"sense": "to allow somebody to behave in a way that you would not usually accept, because of a problem or because there is a special reason",
+					"examples": [
+						"You have to make allowances for him because he’s tired."
+					]
+				}
+			],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "apology",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈpɒlədʒi/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/apo/apolo/apology__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈpɑːlədʒi/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/apo/apolo/apology__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "a word or statement saying sorry for something that has been done wrong or that causes a problem",
+				"examples": [
+					"to offer/make/demand/accept an apology",
+					"You owe him an apology for what you said.",
+					"We should like to offer our apologies for the delay to your flight today.",
+					"We received a letter of apology.",
+					"Please accept my sincere apologies.",
+					"She rejected my apology, saying it was not enough.",
+					"John muttered an apology then went back to his book.",
+					"I make no apologies for bringing this issue to your attention once again.",
+					"If anyone has been offended, I extend my sincere apologies.",
+					"It was a mistake. My profuse apologies.",
+					"He backed out arrogantly and without apology.",
+					"The newspaper has issued an apology to the minister.",
+					"We expect a full written apology.",
+					"The meeting started with apologies (= the names of people who said they could not go to the meeting).",
+					"(formal) She made her apologies and left early."
+				]
+			},
+			"idioms": [
+				{
+					"text": "make no apology/apologies for something ",
+					"sense": "if you say that you make no apology/apologies for something, you mean that you do not feel that you have said or done anything wrong",
+					"examples": []
+				}
+			],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "adjust",
+		"result": {
+			"lexicalCategory": "verb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈdʒʌst/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adj/adjus/adjust__gb_2.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈdʒʌst/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adj/adjus/adjust__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [
+				{
+					"sense": "Past simple",
+					"word": "adjusted",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adj/adjus/adjusted__gb_1.mp3",
+							"spell": "/əˈdʒʌstɪd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adj/adjus/adjusted__us_1.mp3",
+							"spell": "/əˈdʒʌstɪd/"
+						}
+					]
+				},
+				{
+					"sense": "Past participle",
+					"word": "adjusted",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adj/adjus/adjusted__gb_1.mp3",
+							"spell": "/əˈdʒʌstɪd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adj/adjus/adjusted__us_1.mp3",
+							"spell": "/əˈdʒʌstɪd/"
+						}
+					]
+				},
+				{
+					"sense": "-ing form",
+					"word": "adjusting",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adj/adjus/adjusting__gb_1.mp3",
+							"spell": "/əˈdʒʌstɪŋ/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adj/adjus/adjusting__us_1.mp3",
+							"spell": "/əˈdʒʌstɪŋ/"
+						}
+					]
+				}
+			],
+			"senses": {
+				"text": "to change something slightly to make it more suitable for a new set of conditions or to make it work better",
+				"examples": [
+					"adjust something Watch out for sharp bends and adjust your speed accordingly.",
+					"This button is for adjusting the volume.",
+					"The brakes need to be adjusted.",
+					"adjust something to something Adjust your language to the age of your audience.",
+					"It is important to have equipment that can be finely adjusted.",
+					"This estimate may have to be adjusted downwards.",
+					"Salaries are adjusted for inflation.",
+					"Children are sensitive to family attitudes and adjust their attitudes accordingly.",
+					"They'll be fine—they just need time to adjust.",
+					"adjust to something After a while his eyes adjusted to the dark.",
+					"adjust to doing something It took her a while to adjust to living alone.",
+					"It can be difficult to adjust to being a parent.",
+					"adjust yourself to something You'll quickly adjust yourself to student life.",
+					"My eyes were still trying to adjust themselves to the strong sunlight.",
+					"She will gradually adjust to her new role.",
+					"It may take a little time to adjust to the climate here.",
+					"He smoothed his hair and adjusted his tie."
+				]
+			},
+			"idioms": [
+				{
+					"text": "kindly adjust ",
+					"sense": "used to acknowledge and apologize for something that causes problems or difficulties and ask people to accept and adapt to the situation ",
+					"examples": [
+						"The store will be closed this afternoon due to staffing shortages. Kindly adjust."
+					]
+				}
+			],
+			"phrasal_verbs": [],
+			"verb_simple": [
+				{
+					"sense": "Present simple",
+					"plural": {
+						"text": "I / You / We / They",
+						"word": "adjust",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adj/adjus/adjust__gb_2.mp3",
+								"spell": "/əˈdʒʌst/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adj/adjus/adjust__us_1.mp3",
+								"spell": "/əˈdʒʌst/"
+							}
+						]
+					},
+					"singular": {
+						"text": "He / She / It",
+						"word": "adjusts",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adj/adjus/adjusts__gb_1.mp3",
+								"spell": "/əˈdʒʌsts/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adj/adjus/adjusts__us_1.mp3",
+								"spell": "/əˈdʒʌsts/"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	{
+		"word": "anchor",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈæŋkə(r)/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anc/ancho/anchor__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈæŋkər/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/anc/ancho/anchor__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "a heavy metal object that is attached to a rope or chain and dropped over the side of a ship or boat to keep it in one place",
+				"examples": [
+					"to drop anchor",
+					"We raised the anchor and set sail.",
+					"We weighed anchor (= pulled it out of the water).",
+					"at anchor The ship lay at anchor two miles off the rocky coast.",
+					"the anchor of the family",
+					"ABC news anchor Peter Jennings"
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "apparatus",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˌæpəˈreɪtəs/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appar/apparatus__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˌæpəˈrætəs/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appar/apparatus__us_1_rr.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "the tools or other pieces of equipment that are needed for a particular activity or task",
+				"examples": [
+					"a piece of laboratory apparatus",
+					"Firefighters needed breathing apparatus to enter the burning house.",
+					"Science departments say they are lacking basic apparatus.",
+					"camping equipment",
+					"a piece of equipment",
+					"household cleaning materials",
+					"teaching material",
+					"Skiing gear can be expensive.",
+					"a first-aid kit",
+					"a tool kit",
+					"breathing apparatus for firefighters",
+					"laboratory apparatus",
+					"the power of the state apparatus",
+					"We cannot do without the apparatus of government in protecting the rights of the individual.",
+					"the sensory apparatus"
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "accent",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈæksent//ˈæksənt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accen/accent__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": ""
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "a way of pronouncing the words of a language that shows which country, area or social class a person comes from; how well somebody pronounces a particular language",
+				"examples": [
+					"a northern/Dublin/Scottish accent",
+					"a strong/broad accent (= one that is easy to notice)",
+					"with an accent She spoke English with an accent.",
+					"The Americans had learned Korean and spoke with a good accent.",
+					"He lost his accent after moving to the capital.",
+					"He spoke with a cut-glass English accent.",
+					"Her French was excellent, without a trace of an accent.",
+					"She had a pronounced Scottish accent.",
+					"She put on a Southern accent when she answered the phone.",
+					"She spoke in a broad Midlands accent.",
+					"Where are you from? I can't place your accent.",
+					"a tall man with a Canadian accent",
+					"It was a fine performance from Diaz, despite her poor Irish accent.",
+					"In ‘today’ the accent is on the second syllable.",
+					"Canapé has an accent on the ‘e’.",
+					"In all our products the accent is on quality."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "aesthetic",
+		"result": {
+			"lexicalCategory": "adjective",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/iːsˈθetɪk//esˈθetɪk/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aes/aesth/aesthetic__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": ""
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "connected with beauty and art and the understanding of beautiful things",
+				"examples": [
+					"the aesthetic appeal of the songs",
+					"an aesthetic appreciation of the landscape",
+					"The works of art are judged on purely aesthetic grounds.",
+					"The benefits of conservation are both financial and aesthetic.",
+					"Their furniture was more aesthetic than functional."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "abuse",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈbjuːs/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abu/abuse/abuse__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈbjuːs/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abu/abuse/abuse__us_3.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "the use of something in a way that is wrong or harmful",
+				"examples": [
+					"alcohol/drug abuse",
+					"The system of paying cash bonuses is open to abuse (= might be used in the wrong way).",
+					"The legal system is open to abuse.",
+					"abuse of something He was arrested on charges of corruption and abuse of power.",
+					"What she did was an abuse of her position as manager.",
+					"child abuse",
+					"sexual abuse",
+					"reported abuses by the secret police",
+					"She suffered years of physical abuse.",
+					"allegations of child abuse",
+					"six cases of suspected child abuse",
+					"allegations of human rights abuses",
+					"She was subjected to regular sexual abuse.",
+					"The child had taken a lot of emotional abuse.",
+					"abuse of prisoners",
+					"to scream/hurl/shout abuse",
+					"a stream/torrent of abuse",
+					"The man burst into a torrent of foul-mouthed racist abuse.",
+					"The team who lost became a target of abuse for angry fans.",
+					"They had to endure continual racial abuse.",
+					"He was subjected to a torrent of abuse.",
+					"Calling someone stupid is definitely a term of abuse."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "advocate",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈædvəkət/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adv/advoc/advocate__gb_2.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈædvəkət/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adv/advoc/advocate__us_2.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "a person who supports or speaks in favour of somebody or of a public plan or action",
+				"examples": [
+					"advocate for something/somebody an advocate for hospital workers",
+					"advocate of something/somebody a staunch advocate of free speech",
+					"an advocate of pacifism",
+					"Canada was one of the strongest advocates of sanctions.",
+					"She became a firm advocate of overseas ventures.",
+					"Solicitors often appear as advocates in the lower courts.",
+					"Those charged should be represented by trained, qualified legal advocates.",
+					"the District Attorney",
+					"counsel for the prosecution",
+					"the Solicitor General"
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "accommodate",
+		"result": {
+			"lexicalCategory": "verb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əˈkɒmədeɪt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accom/accommodate__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əˈkɑːmədeɪt/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accom/accommodate__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [
+				{
+					"sense": "Past simple",
+					"word": "accommodated",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accom/accommodated__gb_1.mp3",
+							"spell": "/əˈkɒmədeɪtɪd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accom/accommodated__us_1.mp3",
+							"spell": "/əˈkɑːmədeɪtɪd/"
+						}
+					]
+				},
+				{
+					"sense": "Past participle",
+					"word": "accommodated",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accom/accommodated__gb_1.mp3",
+							"spell": "/əˈkɒmədeɪtɪd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accom/accommodated__us_1.mp3",
+							"spell": "/əˈkɑːmədeɪtɪd/"
+						}
+					]
+				},
+				{
+					"sense": "-ing form",
+					"word": "accommodating",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accom/accommodating__gb_1.mp3",
+							"spell": "/əˈkɒmədeɪtɪŋ/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accom/accommodating__us_1.mp3",
+							"spell": "/əˈkɑːmədeɪtɪŋ/"
+						}
+					]
+				}
+			],
+			"senses": {
+				"text": "to provide somebody with a room or place to sleep, live or sit",
+				"examples": [
+					"The hotel can accommodate up to 500 guests.",
+					"The aircraft is capable of accommodating 28 passengers.",
+					"The garage can accommodate three cars.",
+					"The old town hall now accommodates a Folk Museum.",
+					"Our proposal tries to accommodate the special needs of minority groups.",
+					"She modified her views so as to accommodate the objections of American feminists.",
+					"I have accommodated the press a great deal, giving numerous interviews.",
+					"I’m sure the bank will be able to accommodate you.",
+					"I needed to accommodate to the new schedule."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": [
+				{
+					"sense": "Present simple",
+					"plural": {
+						"text": "I / You / We / They",
+						"word": "accommodate",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accom/accommodate__gb_1.mp3",
+								"spell": "/əˈkɒmədeɪt/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accom/accommodate__us_1.mp3",
+								"spell": "/əˈkɑːmədeɪt/"
+							}
+						]
+					},
+					"singular": {
+						"text": "He / She / It",
+						"word": "accommodates",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accom/accommodates__gb_1.mp3",
+								"spell": "/əˈkɒmədeɪts/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accom/accommodates__us_1.mp3",
+								"spell": "/əˈkɑːmədeɪts/"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	{
+		"word": "administer",
+		"result": {
+			"lexicalCategory": "verb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ədˈmɪnɪstə(r)/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adm/admin/administer__gb_2.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ədˈmɪnɪstər/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adm/admin/administer__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [
+				{
+					"sense": "Past simple",
+					"word": "administered",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adm/admin/administered__gb_1.mp3",
+							"spell": "/ədˈmɪnɪstəd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adm/admin/administered__us_1.mp3",
+							"spell": "/ədˈmɪnɪstərd/"
+						}
+					]
+				},
+				{
+					"sense": "Past participle",
+					"word": "administered",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adm/admin/administered__gb_1.mp3",
+							"spell": "/ədˈmɪnɪstəd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adm/admin/administered__us_1.mp3",
+							"spell": "/ədˈmɪnɪstərd/"
+						}
+					]
+				},
+				{
+					"sense": "-ing form",
+					"word": "administering",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adm/admin/administering__gb_1.mp3",
+							"spell": "/ədˈmɪnɪstərɪŋ/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adm/admin/administering__us_1.mp3",
+							"spell": "/ədˈmɪnɪstərɪŋ/"
+						}
+					]
+				}
+			],
+			"senses": {
+				"text": "to manage and organize the affairs of a company, an organization, a country, etc.",
+				"examples": [
+					"to administer a charity/fund/school",
+					"the high cost of administering medical services",
+					"The pension funds are administered by commercial banks.",
+					"The charity is administered by a 20-strong management committee.",
+					"The country has to face up to the high cost of administering medical services.",
+					"to administer justice/the law",
+					"The questionnaire was administered by trained interviewers.",
+					"It is the function of the courts to administer the laws which Parliament has enacted.",
+					"Bishops came before the Pope and justice was administered by him in person.",
+					"The team is responsible for administering the tests and marking the papers.",
+					"The teacher has the authority to administer punishment.",
+					"A taxi driver administered first aid to the victims.",
+					"The priest was called to administer the last rites.",
+					"administer something Police believe his wife could not have administered the poison.",
+					"administer something to somebody The dose was administered to the child intravenously.",
+					"He administered a severe blow to his opponent's head."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": [
+				{
+					"sense": "Present simple",
+					"plural": {
+						"text": "I / You / We / They",
+						"word": "administer",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adm/admin/administer__gb_2.mp3",
+								"spell": "/ədˈmɪnɪstə(r)/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adm/admin/administer__us_1.mp3",
+								"spell": "/ədˈmɪnɪstər/"
+							}
+						]
+					},
+					"singular": {
+						"text": "He / She / It",
+						"word": "administers",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adm/admin/administers__gb_1.mp3",
+								"spell": "/ədˈmɪnɪstəz/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adm/admin/administers__us_1.mp3",
+								"spell": "/ədˈmɪnɪstərz/"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	{
+		"word": "angel",
+		"result": {
+			"lexicalCategory": "noun",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈeɪndʒl/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ang/angel/angel__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/ˈeɪndʒl/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ang/angel/angel__us_1.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "a spirit who is believed to be a servant of God, and is sent by God to deliver a message or perform a task. Angels are often shown dressed in white, with wings.",
+				"examples": [
+					"a host of angels",
+					"She looks like an angel.",
+					"a singer who has the voice of an angel",
+					"She wore a white costume with big furry angel wings.",
+					"a book about anti-heroes and fallen angels",
+					"He liked to think of himself as an avenging angel fighting for justice.",
+					"We lay back in the snow and made snow angels (= a shape made by moving your arms and legs back and forward while lying in snow).",
+					"John is no angel, believe me (= he does not behave well).",
+					"Mary’s children are little angels.",
+					"I could hardly see Lisa in the role of ministering angel.",
+					"Thanks Dad, you're an angel.",
+					"Be an angel and make me a cup of coffee.",
+					"When will the angels get their money back?",
+					"They started the business with the help of $2 million supplied by angel investors."
+				]
+			},
+			"idioms": [
+				{
+					"text": "fools rush in (where angels fear to tread) ",
+					"sense": "people with little experience try to do the difficult or dangerous things that more experienced people would not consider doing",
+					"examples": []
+				}
+			],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "amateur",
+		"result": {
+			"lexicalCategory": "adjective",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/ˈæmətə(r)//ˈæmətʃə(r)/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ama/amate/amateur__gb_1.mp3"
+				},
+				{
+					"local": "US",
+					"spell": ""
+				}
+			],
+			"note": "",
+			"verbs": [],
+			"senses": {
+				"text": "doing something for pleasure or interest, not as a job",
+				"examples": [
+					"an amateur photographer",
+					"amateur athletics",
+					"The performance sounded very amateur, I’m afraid."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": []
+		}
+	},
+	{
+		"word": "absorb",
+		"result": {
+			"lexicalCategory": "verb",
+			"ipas": [
+				{
+					"local": "UK",
+					"spell": "/əbˈzɔːb/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/absor/absorb__gb_2.mp3"
+				},
+				{
+					"local": "US",
+					"spell": "/əbˈzɔːrb/",
+					"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abs/absor/absorb__us_2_rr.mp3"
+				}
+			],
+			"note": "",
+			"verbs": [
+				{
+					"sense": "Past simple",
+					"word": "absorbed",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/absor/absorbed__gb_2.mp3",
+							"spell": "/əbˈzɔːbd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abs/absor/absorbed__us_2.mp3",
+							"spell": "/əbˈzɔːrbd/"
+						}
+					]
+				},
+				{
+					"sense": "Past participle",
+					"word": "absorbed",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/absor/absorbed__gb_2.mp3",
+							"spell": "/əbˈzɔːbd/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abs/absor/absorbed__us_2.mp3",
+							"spell": "/əbˈzɔːrbd/"
+						}
+					]
+				},
+				{
+					"sense": "-ing form",
+					"word": "absorbing",
+					"audios": [
+						{
+							"local": "UK",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/absor/absorbing__gb_2.mp3",
+							"spell": "/əbˈzɔːbɪŋ/"
+						},
+						{
+							"local": "US",
+							"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abs/absor/absorbing__us_2.mp3",
+							"spell": "/əbˈzɔːrbɪŋ/"
+						}
+					]
+				}
+			],
+			"senses": {
+				"text": "to take in a liquid, gas or other substance from the surface or space around",
+				"examples": [
+					"absorb something Plants absorb carbon dioxide from the air.",
+					"Let the rice cook until it has absorbed all the water.",
+					"absorb something into something The cream is easily absorbed into the skin.",
+					"Concrete absorbs very little moisture.",
+					"Nutrients are absorbed into the bloodstream.",
+					"Black walls absorb a lot of heat during the day.",
+					"This tennis racket absorbs shock on impact.",
+					"The bats have graphite shafts that absorb the vibration.",
+					"It's a lot of information to absorb all at once.",
+					"It took me several days to absorb the fact of her death.",
+					"They spent a week in Paris just absorbing the atmosphere.",
+					"He stood still, absorbing every detail of the scene.",
+					"It was great to sit back and absorb the atmosphere.",
+					"The information is presented so that it can be readily absorbed.",
+					"This work had absorbed him for several years.",
+					"His work absorbed him completely.",
+					"absorb something The country simply cannot absorb this influx of refugees.",
+					"be absorbed into something The surrounding small towns have been absorbed into the city.",
+					"These committees were gradually absorbed into the local government machine.",
+					"The new proposals would absorb $80 billion of the federal budget.",
+					"My work absorbs a great deal of my time.",
+					"The company is unable to absorb such huge losses."
+				]
+			},
+			"idioms": [],
+			"phrasal_verbs": [],
+			"verb_simple": [
+				{
+					"sense": "Present simple",
+					"plural": {
+						"text": "I / You / We / They",
+						"word": "absorb",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/absor/absorb__gb_2.mp3",
+								"spell": "/əbˈzɔːb/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abs/absor/absorb__us_2_rr.mp3",
+								"spell": "/əbˈzɔːrb/"
+							}
+						]
+					},
+					"singular": {
+						"text": "He / She / It",
+						"word": "absorbs",
+						"audios": [
+							{
+								"local": "UK",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/absor/absorbs__gb_2.mp3",
+								"spell": "/əbˈzɔːbz/"
+							},
+							{
+								"local": "US",
+								"src": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abs/absor/absorbs__us_2.mp3",
+								"spell": "/əbˈzɔːrbz/"
+							}
+						]
+					}
+				}
+			]
+		}
+	}
+]

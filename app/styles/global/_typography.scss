@@ -1,0 +1,127 @@
+:root {
+	// font family
+	--font-primary: sans-serif;
+
+	// body font size
+	--text-base-size: 1em;
+
+	// type scale
+	--text-scale-ratio: 1.2;
+	--text-xs: calc((1em / var(--text-scale-ratio)) / var(--text-scale-ratio));
+	--text-sm: calc(var(--text-xs) * var(--text-scale-ratio));
+	--text-md: calc(var(--text-sm) * var(--text-scale-ratio) * var(--text-scale-ratio));
+	--text-lg: calc(var(--text-md) * var(--text-scale-ratio));
+	--text-xl: calc(var(--text-lg) * var(--text-scale-ratio));
+	--text-xxl: calc(var(--text-xl) * var(--text-scale-ratio));
+	--text-xxxl: calc(var(--text-xxl) * var(--text-scale-ratio));
+
+	// line-height
+	--body-line-height: 1.4;
+	--heading-line-height: 1.2;
+
+	// capital letters - used in combo with the lhCrop mixin
+	--font-primary-capital-letter: 1;
+}
+
+@supports(--css: variables) {
+	:root {
+		@include breakpoint(md) {
+			--text-base-size: 1.25em;
+			--text-scale-ratio: 1.25;
+		}
+	}
+}
+
+body {
+	font-size: var(--text-base-size);
+	color: var(--color-contrast-high);
+	font-family: var(--font-primary);
+}
+
+h1,
+h2,
+h3,
+h4 {
+	color: var(--color-contrast-higher);
+	line-height: var(--heading-line-height);
+	font-family: var(--font-primary);
+	font-weight: 700;
+}
+
+// text size
+.text--xxxl {
+	font-size: var(--text-xxxl);
+}
+
+h1,
+.text--xxl {
+	font-size: var(--text-xxl);
+}
+
+h2,
+.text--xl {
+	font-size: var(--text-xl);
+}
+
+h3,
+.text--lg {
+	font-size: var(--text-lg);
+}
+
+h4,
+.text--md {
+	font-size: var(--text-md);
+}
+
+.text--sm,
+small {
+	font-size: var(--text-sm);
+}
+
+.text--xs {
+	font-size: var(--text-xs);
+}
+
+// inline text
+a,
+.link {
+	color: var(--color-primary);
+	text-decoration: underline;
+}
+
+mark {
+	background-color: var(--color-accent-lighter);
+	color: inherit;
+}
+
+strong {
+	font-weight: bold;
+}
+
+s {
+	text-decoration: line-through;
+}
+
+u {
+	text-decoration: underline;
+}
+
+.text--subtle {
+	color: var(--color-contrast-medium);
+}
+
+.text--inherit {
+	color: inherit;
+}
+
+// utility classes
+.truncate {
+	// truncate text if it exceeds its parent
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.text--center {
+	text-align: center;
+}

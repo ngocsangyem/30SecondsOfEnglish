@@ -1,0 +1,48 @@
+.audio-group {
+	--font-size: 0.9rem;
+	display: flex;
+
+	.audio-item {
+		display: flex;
+		align-items: center;
+
+		&.audio-uk {
+			margin-right: 1.25rem;
+		}
+	}
+
+	.audio-button {
+		--width: 1.2rem;
+		@include reset;
+		cursor: pointer;
+
+		margin-right: 0.625rem;
+
+		font-weight: 700;
+
+		display: flex;
+		align-items: center;
+
+		&:focus {
+			outline: none;
+		}
+
+		svg {
+			width: var(--width);
+			height: var(--width);
+
+			fill: var(--color-contrast-higher);
+
+			margin-left: 0.3125rem;
+		}
+
+		&.is-playing {
+			fill: var(--color-primary);
+		}
+	}
+
+
+	.audio-spell {
+		font-size: var(--font-size);
+	}
+}

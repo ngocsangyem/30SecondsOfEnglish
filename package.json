@@ -1,0 +1,60 @@
+{
+	"private": true,
+	"engines": {
+		"node": ">=4"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.12.13",
+		"@babel/plugin-proposal-class-properties": "^7.12.13",
+		"@babel/preset-env": "^7.12.13",
+		"autoprefixer": "^10.2.4",
+		"babel-eslint": "^10.1.0",
+		"babel-loader": "^8.2.2",
+		"babel-plugin-add-module-exports": "^1.0.4",
+		"browser-sync": "^2.26.14",
+		"chai": "^4.3.0",
+		"cross-env": "^7.0.3",
+		"css-declaration-sorter": "^6.0.2",
+		"cssnano": "^4.1.10",
+		"del": "^6.0.0",
+		"fibers": "^5.0.0",
+		"gulp": "^4.0.2",
+		"gulp-babel": "^8.0.0",
+		"gulp-cli": "^2.3.0",
+		"gulp-eslint": "^6.0.0",
+		"gulp-filter": "^6.0.0",
+		"gulp-htmlmin": "^5.0.1",
+		"gulp-if": "^3.0.0",
+		"gulp-imagemin": "^7.1.0",
+		"gulp-load-plugins": "^2.0.6",
+		"gulp-plumber": "^1.2.1",
+		"gulp-postcss": "^9.0.0",
+		"gulp-sass": "^4.1.0",
+		"gulp-size": "^3.0.0",
+		"gulp-sourcemaps": "^3.0.0",
+		"gulp-uglify": "^3.0.2",
+		"gulp-useref": "^5.0.0",
+		"i": "^0.3.6",
+		"mocha": "^8.2.1",
+		"npm": "^7.5.2",
+		"postcss": "^8.2.5",
+		"postcss-sort-media-queries": "^3.2.3",
+		"vinyl-named": "^1.1.0",
+		"webpack": "^5.21.1",
+		"webpack-stream": "^6.1.2",
+		"yargs": "16.2.0"
+	},
+	"scripts": {
+		"serve:test": "cross-env NODE_ENV=test gulp serve",
+		"serve:dist": "cross-env NODE_ENV=production gulp serve",
+		"start": "gulp serve",
+		"build": "cross-env NODE_ENV=production gulp",
+		"test": "npm run serve:test",
+		"tasks": "gulp --tasks"
+	},
+	"browserslist": [
+		"> 1%",
+		"last 2 versions",
+		"Firefox ESR"
+	]
+}

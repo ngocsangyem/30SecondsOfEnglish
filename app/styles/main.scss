@@ -1,0 +1,39 @@
+@import './global/reset';
+@import './global/mixins';
+@import './global/breakpoints';
+@import './global/colors';
+@import './global/typography';
+
+@import './components/header';
+@import './components/footer';
+@import './components/logo';
+@import './components/dictionary';
+@import './components/switch';
+@import './components/ipa';
+@import './components/note';
+@import './components/table';
+@import './components/audio-group';
+@import './components/verb';
+@import './components/senses';
+
+:root {
+	--font-primary: 'Open Sans', sans-serif;
+	--content-width--max: 1024px;
+	--content-width: calc(100vw - 80px);
+}
+
+html,
+body {
+	font-family: var(--font-primary);
+	color: var(--color-contrast-higher);
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.container {
+	width: var(--content-width);
+	max-width: var(--content-width--max);
+
+	margin-right: auto;
+	margin-left: auto;
+}

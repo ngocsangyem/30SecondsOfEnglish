@@ -1,0 +1,41 @@
+.senses {
+
+	p {
+		margin-top: 1rem;
+
+		&.senses-meaning {
+			margin-top: 1.5rem;
+		}
+	}
+
+	.senses-examples {
+		margin-top: 1rem;
+
+		strong {
+			margin-bottom: 0.3rem;
+			display: inline-block;
+		}
+
+		ul {
+			padding-left: 1rem;
+		}
+
+		.example {
+
+			font-size: 1rem;
+
+			&:not(:last-child) {
+				margin-bottom: 0.5rem;
+			}
+
+			&::before {
+				content: "•";
+
+				padding-right: 0.5rem;
+				margin-left: -0.75rem;
+
+				color: var(--color-contrast-medium);
+			}
+		}
+	}
+}

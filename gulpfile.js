@@ -24,7 +24,7 @@ const isTest = process.env.NODE_ENV === 'test';
 const isDev = !isProd && !isTest;
 
 function styles() {
-	return src('app/styles/*.scss')
+	return src('app/styles/main.scss')
 		.pipe($.plumber())
 		.pipe($.if(!isProd, $.sourcemaps.init()))
 		.pipe(
@@ -50,16 +50,18 @@ function styles() {
 			)
 		)
 		.pipe($.if(!isProd, $.sourcemaps.write()))
-		.pipe(dest('.tmp/styles'))
+		.pipe($.if(!isProd, dest('.tmp/styles')))
+		.pipe($.if(isProd, dest('dist/styles')))
 		.pipe(server.reload({ stream: true }));
 }
 
 function scripts() {
-	return src('app/scripts/**/*.js')
+	return src('app/scripts/main.js')
 		.pipe($.plumber())
 		.pipe(named())
 		.pipe(webpackStream(WebpackConfig), webpack)
-		.pipe(dest('.tmp/scripts'))
+		.pipe($.if(!isProd, dest('.tmp/scripts')))
+		.pipe($.if(isProd, dest('dist/scripts')))
 		.pipe(server.reload({ stream: true }));
 }
 

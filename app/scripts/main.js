@@ -13,8 +13,8 @@ export class App {
 	}
 
 	getSource() {
-		console.log(`../data/source_1.json`);
-		fetch(`../data/source_1.json`)
+		console.log('../data/source_1.json');
+		fetch('../data/source_1.json')
 			.then((res) => res.json())
 			.then((res) => {
 				console.log(JSON.stringify(res));

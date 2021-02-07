@@ -56,5 +56,22 @@
 		"> 1%",
 		"last 2 versions",
 		"Firefox ESR"
-	]
+	],
+	"eslintConfig": {
+		"parser": "babel-eslint",
+		"parserOptions": {
+			"sourceType": "module"
+		},
+		"env": {
+			"es6": true,
+			"node": true,
+			"browser": true
+		},
+		"rules": {
+			"quotes": [
+				2,
+				"single"
+			]
+		}
+	}
 }

@@ -1,11 +1,27 @@
 import Switch from './components/Switch';
+import Header from './components/Header';
+import Footer from './components/Footer';
+import Dictionary from './components/Dictionary';
+import Verbs from './components/Verbs';
 
 export class App {
 	totalSource = 50;
 
-	constructor() {
-		new Switch();
+	constructor(el) {
+		this.el = el;
+
+		new Switch(el);
+		new Header(el);
+		new Dictionary(el);
+		new Verbs(el);
+		new Footer(el);
 		this.getSource();
+	}
+
+	templates() {
+		return `
+
+		`;
 	}
 
 	randomSource() {
@@ -13,23 +29,14 @@ export class App {
 	}
 
 	getSource() {
-		console.log('../data/source_1.json');
-		fetch('../data/source_1.json')
-			.then((res) => res.json())
-			.then((res) => {
-				console.log(JSON.stringify(res));
-			})
-			.catch((error) => {
-				console.log(error);
-			});
 	}
 
-	static init() {
-		const index = new App();
+	static init(el) {
+		const index = new App(el);
 		return index;
 	}
 }
 
 (function () {
-	App.init();
+	App.init(document.getElementById('app'));
 })();

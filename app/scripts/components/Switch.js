@@ -1,8 +1,23 @@
 export default class Switch {
-	themeSwitch = document.getElementById('themeSwitch');
-
-	constructor() {
+	constructor(el) {
+		this.el = el;
+		this.render()
 		this.handleThemeSwitch();
+	}
+
+	templates() {
+		return `
+		<div class="switch">
+			<input class="switch__input" type="checkbox" id="themeSwitch">
+			<label aria-hidden="true" class="switch__label" for="themeSwitch">On</label>
+			<div aria-hidden="true" class="switch__marker"></div>
+		</div>
+		`;
+	}
+
+	render() {
+		this.el.insertAdjacentHTML('afterbegin', this.templates());
+		this.themeSwitch = this.el.querySelector('#themeSwitch');
 	}
 
 	initTheme() {
@@ -34,4 +49,5 @@ export default class Switch {
 			this.resetTheme();
 		});
 	}
+	
 }

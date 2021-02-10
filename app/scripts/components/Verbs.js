@@ -35,7 +35,9 @@ export default class Verbs {
 	update(next) {
 		Object.assign(this.state, next);
 
-		if (Object.keys(this.state).length === 0) return;
+		if (Object.keys(this.state).length > 0) {
+			this.el.querySelector('.verbs').classList.add('is-show');
+		}
 
 		const $tableHeader = this.el.querySelector('.table-header h2');
 		const $tableContent = this.el.querySelector('.table-content');

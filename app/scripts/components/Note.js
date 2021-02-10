@@ -31,6 +31,10 @@ export default class Note {
 
 		const $container = this.el.querySelector('.notes');
 
+		if (this.state.text) {
+			$container.classList.add('is-show');
+		}
+
 		$container.querySelector('p').textContent = this.state.text;
 	}
 }

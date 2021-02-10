@@ -61,19 +61,15 @@ export default class Store {
 	}
 
 	async getSource() {
-		// const getSources = await fetch(
-		// 	`./data/source_${this.getRandom(1, this.totalSource)}.json`,
-		// 	{
-		// 		headers: { accept: 'application/json' },
-		// 	}
-		// );
-		const getSources = await fetch(`./data/source_${32}.json`, {
-			headers: { accept: 'application/json' },
-		});
+		const getSources = await fetch(
+			`./data/source_${this.getRandom(1, this.totalSource)}.json`,
+			{
+				headers: { accept: 'application/json' },
+			}
+		);
 		const source = await getSources.json();
 		const sourceLength = source.data.length;
 
-		// return source.data[this.randomSource(sourceLength)];
-		return source.data[98];
+		return source.data[this.randomSource(sourceLength)];
 	}
 }

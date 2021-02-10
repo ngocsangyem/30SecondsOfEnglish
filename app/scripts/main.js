@@ -16,6 +16,9 @@ export class App {
 	constructor(el) {
 		this.el = el;
 
+		// Catch data
+		this.load();
+
 		new Switch(el);
 		new Header(el);
 		this.word = new Word(el);
@@ -24,16 +27,14 @@ export class App {
 		this.senses = new Senses(el);
 		this.verbs = new Verbs(el);
 		new Footer(el);
-
-		// Catch data
-		this.load();
 	}
 
 	load() {
 		const store = new Store(this.el);
 
 		this.el.addEventListener('appData', (event) => {
-			this.update(event.detail);
+			this.state = event.detail;
+			this.update(this.state);
 		});
 
 		store.load();

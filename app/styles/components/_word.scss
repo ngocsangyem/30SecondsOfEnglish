@@ -1,4 +1,4 @@
-.dictionary {
+.word {
 	h1 {
 		color: var(--color-primary);
 	}
@@ -8,11 +8,13 @@
 
 		padding-top: 2rem;
 	}
-}
 
-.dictionary-name {
-	.text--subtle {
-		font-size: var(--text-xs);
-		font-weight: 600;
+	.word-name {
+		.text--subtle {
+			font-size: var(--text-xs);
+			font-weight: 600;
+		}
 	}
 }
+
+

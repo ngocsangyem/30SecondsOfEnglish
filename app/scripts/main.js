@@ -1,34 +1,42 @@
+import Store from './store/store';
+
 import Switch from './components/Switch';
 import Header from './components/Header';
 import Footer from './components/Footer';
-import Dictionary from './components/Dictionary';
 import Verbs from './components/Verbs';
+import Ipas from './components/Ipas';
+import Word from './components/Word';
 
 export class App {
-	totalSource = 50;
+	state = {};
 
 	constructor(el) {
 		this.el = el;
 
 		new Switch(el);
 		new Header(el);
-		new Dictionary(el);
-		new Verbs(el);
+		// new Verbs(el);
+		this.word = new Word(el);
 		new Footer(el);
-		this.getSource();
+
+		// Catch data
+		this.load();
 	}
 
-	templates() {
-		return `
+	load() {
+		const store = new Store(this.el);
 
-		`;
+		this.el.addEventListener('appData', (event) => {
+			this.update(event.detail);
+		});
+
+		store.load();
 	}
 
-	randomSource() {
-		return Math.floor(Math.random() * this.totalSource);
-	}
+	update(next) {
+		Object.assign(this.state, next);
 
-	getSource() {
+		this.word.update(this.state.word);
 	}
 
 	static init(el) {

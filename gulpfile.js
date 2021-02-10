@@ -119,6 +119,12 @@ function fonts() {
 	);
 }
 
+function jsonData() {
+	return src('app/data/**/*.json').pipe(
+		$.if(!isProd, dest('.tmp/data'), dest('dist/data'))
+	);
+}
+
 function extras() {
 	return src(['app/*', '!app/*.html'], {
 		dot: true,
@@ -140,6 +146,7 @@ const build = series(
 		series(parallel(styles, scripts), html),
 		images,
 		fonts,
+		jsonData,
 		extras
 	),
 	measureSize
@@ -165,6 +172,7 @@ function startAppServer() {
 	watch('app/styles/**/*.scss', styles);
 	watch('app/scripts/**/*.js', scripts);
 	watch('app/fonts/**/*', fonts);
+	watch('app/data/**/*', jsonData);
 }
 
 function startTestServer() {
@@ -201,7 +209,11 @@ function startDistServer() {
 
 let serve;
 if (isDev) {
-	serve = series(clean, parallel(styles, scripts, fonts), startAppServer);
+	serve = series(
+		clean,
+		parallel(styles, scripts, fonts, jsonData),
+		startAppServer
+	);
 } else if (isTest) {
 	serve = series(clean, scripts, startTestServer);
 } else if (isProd) {

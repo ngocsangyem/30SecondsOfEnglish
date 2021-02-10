@@ -1,0 +1,21 @@
+.examples {
+	padding-left: 1rem;
+
+	.example-item {
+
+		font-size: 1rem;
+
+		&:not(:last-child) {
+			margin-bottom: 0.5rem;
+		}
+
+		&::before {
+			content: "•";
+
+			padding-right: 0.5rem;
+			margin-left: -0.75rem;
+
+			color: var(--color-contrast-medium);
+		}
+	}
+}

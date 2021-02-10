@@ -6,6 +6,9 @@ import Footer from './components/Footer';
 import Verbs from './components/Verbs';
 import Ipas from './components/Ipas';
 import Word from './components/Word';
+import Note from './components/Note';
+import Senses from './components/Senses';
+import VerbSimple from './components/VerbSimple';
 
 export class App {
 	state = {};
@@ -15,8 +18,11 @@ export class App {
 
 		new Switch(el);
 		new Header(el);
-		// new Verbs(el);
 		this.word = new Word(el);
+		this.ipas = new Ipas(el);
+		this.note = new Note(el);
+		this.senses = new Senses(el);
+		this.verbs = new Verbs(el);
 		new Footer(el);
 
 		// Catch data
@@ -37,6 +43,13 @@ export class App {
 		Object.assign(this.state, next);
 
 		this.word.update(this.state.word);
+		this.ipas.update(this.state.ipas);
+		this.note.update(this.state.note);
+		this.senses.update(this.state.senses);
+		this.verbs.update({
+			...this.state.verbs,
+			verb_simple: this.state.verb_simple.data[0],
+		});
 	}
 
 	static init(el) {

@@ -1,8 +1,7 @@
-export default class Word {
+export default class Note {
 	state = {
-		name: '',
+		text: '',
 		id: '',
-		lexicalCategory: '',
 	};
 
 	constructor(el) {
@@ -13,10 +12,11 @@ export default class Word {
 
 	templates() {
 		return `
-		<section class="words">
+		<section class="notes">
 			<div class="container">
-				<h1 class="word-name">
-				</h1>
+				<div class="note-item">
+					<p></p>
+				</div>
 			</div>
 		</section>
 		`;
@@ -29,9 +29,8 @@ export default class Word {
 	update(next) {
 		Object.assign(this.state, next);
 
-		const $wordName = this.el.querySelector('.word-name');
+		const $container = this.el.querySelector('.notes');
 
-		$wordName.dataset.key = this.state.id;
-		$wordName.textContent = this.state.name;
+		$container.querySelector('p').textContent = this.state.text;
 	}
 }

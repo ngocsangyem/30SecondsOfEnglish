@@ -8,11 +8,14 @@ export default class Ipas {
 
 	constructor(el) {
 		this.el = el;
+		this.render();
 	}
 
 	templates() {
 		return `
-			<section class="ipas"></section>
+			<section class="ipas">
+				<div class="container"></div>
+			</section>
 		`;
 	}
 
@@ -23,39 +26,10 @@ export default class Ipas {
 	update(next) {
 		Object.assign(this.state, next);
 
-		const container = this.el.querySelector('.ipas');
-		const obsolete = new Set(container.children);
-		const childrenByKey = new Map();
+		const $container = this.el.querySelector('.ipas .container');
+		$container.dataset.key = this.state.id;
+		this.audioGroup = new AudioGroup($container);
 
-		obsolete.forEach(function (child) {
-			childrenByKey.set(child.dataset.key, child);
-		});
-
-		const children = Object.keys(this.state).map((i) => {
-			const ipa = this.state[i];
-			let child = childrenByKey.get(ipa.id);
-
-			if (child) {
-				obsolete.delete(child);
-			} else {
-				child = document.createElement('div');
-				child.className = 'ipas-container';
-				child.dataset.key = ipa.id;
-
-				this.audioGroup = new AudioGroup(child);
-			}
-			this.audioGroup.update({ data: ipa.data });
-			return child;
-		});
-
-		obsolete.forEach((child) => {
-			container.removeChild(child);
-		});
-
-		children.forEach((child, index) => {
-			if (child !== container.children[index]) {
-				container.insertBefore(child, container.children[index]);
-			}
-		});
+		this.audioGroup.update({ data: this.state.data });
 	}
 }

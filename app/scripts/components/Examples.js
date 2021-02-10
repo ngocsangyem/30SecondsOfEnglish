@@ -1,10 +1,9 @@
-import AudioItem from './AudioItem';
+import ExampleItem from './ExampleItem';
 
-export default class AudioGroup {
+export default class Examples {
 	state = {
-		data: [],
+		examples: [],
 	};
-
 	constructor(el) {
 		this.el = el;
 
@@ -13,7 +12,7 @@ export default class AudioGroup {
 
 	templates() {
 		return `
-			<div class="audio-group"></div>
+			<ul class="examples"></ul>
 		`;
 	}
 
@@ -24,7 +23,7 @@ export default class AudioGroup {
 	update(next) {
 		Object.assign(this.state, next);
 
-		const container = this.el.querySelector('.audio-group');
+		const container = this.el.querySelector('.examples');
 		const obsolete = new Set(container.children);
 		const childrenByKey = new Map();
 
@@ -32,19 +31,18 @@ export default class AudioGroup {
 			childrenByKey.set(child.dataset.key, child);
 		});
 
-		const children = this.state.data.map((audio) => {
-			let child = childrenByKey.get(audio.id);
+		const children = this.state.examples.map((example) => {
+			let child = childrenByKey.get(example.id);
 
 			if (child) {
 				obsolete.delete(child);
 			} else {
 				child = document.createElement('div');
-				child.classList.add('audio-item');
-				child.classList.add(`audio-${audio.local.toLowerCase()}`);
-				child.dataset.key = audio.id;
-				this.audioItem = new AudioItem(child);
+				child.classList.add('example-item');
+				child.dataset.key = example.id;
+				this.exampleItem = new ExampleItem(child);
 			}
-			this.audioItem.update({ ...audio });
+			this.exampleItem.update({ ...example });
 			return child;
 		});
 

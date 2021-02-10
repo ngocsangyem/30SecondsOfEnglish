@@ -1,0 +1,28 @@
+.notes {
+	margin-top: 1rem;
+
+	.note-item {
+		padding: 1rem;
+
+		position: relative;
+
+		background-color: alpha(var(--color-code-block), 0.5);
+
+		p {
+			margin-top: 0;
+		}
+
+		&:before {
+			content: '';
+
+			width: 3px;
+			height: 100%;
+
+			position: absolute;
+			top: 0;
+			left: 0;
+
+			background-color: alpha(var(--color-primary), 0.7);
+		}
+	}
+}

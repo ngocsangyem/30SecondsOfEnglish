@@ -7,14 +7,15 @@
 @import './components/header';
 @import './components/footer';
 @import './components/logo';
-@import './components/word';
+@import './components/words';
 @import './components/switch';
 @import './components/ipa';
-@import './components/note';
+@import './components/notes';
 @import './components/table';
 @import './components/audio-group';
 @import './components/verb';
 @import './components/senses';
+@import './components/examples';
 
 :root {
 	--font-primary: 'Open Sans', sans-serif;

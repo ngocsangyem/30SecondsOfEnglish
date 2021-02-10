@@ -1,10 +1,8 @@
-export default class WordItem {
+export default class ExampleItem {
 	state = {
-		name: '',
 		id: '',
-		lexicalCategory: '',
+		text: '',
 	};
-
 	constructor(el) {
 		this.el = el;
 
@@ -13,9 +11,8 @@ export default class WordItem {
 
 	templates() {
 		return `
-			<h1 class="word-name">
-			</h1>
-		`
+			<span></span>
+		`;
 	}
 
 	render() {
@@ -25,6 +22,6 @@ export default class WordItem {
 	update(next) {
 		Object.assign(this.state, next);
 
-		this.el.querySelector('.word-name').textContent = this.state.name;
+		this.el.querySelector('span').textContent = this.state.text;
 	}
 }

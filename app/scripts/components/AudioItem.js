@@ -10,6 +10,7 @@ export default class AudioItem {
 		this.el = el;
 
 		this.render();
+		this.handleEvents();
 	}
 
 	templates() {
@@ -38,7 +39,7 @@ export default class AudioItem {
 	render() {
 		this.el.insertAdjacentHTML('beforeend', this.templates());
 
-		this.$audioButton = this.el.querySelector('.audio-button span');
+		this.$audioButton = this.el.querySelector('.audio-button');
 		this.$audioSpell = this.el.querySelector('.audio-spell');
 		this.$audio = this.el.querySelector('audio');
 	}
@@ -46,8 +47,18 @@ export default class AudioItem {
 	update(next) {
 		Object.assign(this.state, next);
 
-		this.$audioButton.textContent = this.state.local;
+		this.$audioButton.querySelector('span').textContent = this.state.local;
 		this.$audioSpell.textContent = this.state.spell;
 		this.$audio.src = this.state.src;
+	}
+
+	handleEvents() {
+		this.$audioButton.addEventListener('click', () => {
+			this.playAudio();
+		});
+	}
+
+	playAudio() {
+		this.$audio.play();
 	}
 }

@@ -34,14 +34,18 @@ export default class Senses {
 	update(next) {
 		Object.assign(this.state, next);
 
-		this.render();
+		if (this.state.text) {
+			this.render();
 
-		const $container = this.el.querySelector('.senses');
-		this.examples = new Examples(this.el.querySelector('.senses-examples'));
+			const $container = this.el.querySelector('.senses');
+			this.examples = new Examples(
+				this.el.querySelector('.senses-examples')
+			);
 
-		$container.querySelector(
-			'.senses-meaning span'
-		).textContent = this.state.text;
-		this.examples.update({ examples: this.state.examples.slice(0, 4) });
+			$container.querySelector(
+				'.senses-meaning span'
+			).textContent = this.state.text;
+			this.examples.update({ examples: this.state.examples.slice(0, 4) });
+		}
 	}
 }

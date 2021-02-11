@@ -22,40 +22,42 @@ export default class AudioGroup {
 	update(next) {
 		Object.assign(this.state, next);
 
-		this.render();
+		if (this.state.data.length > 0) {
+			this.render();
 
-		const container = this.el.querySelector('.audio-group');
-		const obsolete = new Set(container.children);
-		const childrenByKey = new Map();
+			const container = this.el.querySelector('.audio-group');
+			const obsolete = new Set(container.children);
+			const childrenByKey = new Map();
 
-		obsolete.forEach(function (child) {
-			childrenByKey.set(child.dataset.key, child);
-		});
+			obsolete.forEach(function (child) {
+				childrenByKey.set(child.dataset.key, child);
+			});
 
-		const children = this.state.data.map((audio) => {
-			let child = childrenByKey.get(audio.id);
+			const children = this.state.data.map((audio) => {
+				let child = childrenByKey.get(audio.id);
 
-			if (child) {
-				obsolete.delete(child);
-			} else {
-				child = document.createElement('div');
-				child.classList.add('audio-item');
-				child.classList.add(`audio-${audio.local.toLowerCase()}`);
-				child.dataset.key = audio.id;
-				this.audioItem = new AudioItem(child);
-			}
-			this.audioItem.update({ ...audio });
-			return child;
-		});
+				if (child) {
+					obsolete.delete(child);
+				} else {
+					child = document.createElement('div');
+					child.classList.add('audio-item');
+					child.classList.add(`audio-${audio.local.toLowerCase()}`);
+					child.dataset.key = audio.id;
+					this.audioItem = new AudioItem(child);
+				}
+				this.audioItem.update({ ...audio });
+				return child;
+			});
 
-		obsolete.forEach((child) => {
-			container.removeChild(child);
-		});
+			obsolete.forEach((child) => {
+				container.removeChild(child);
+			});
 
-		children.forEach((child, index) => {
-			if (child !== container.children[index]) {
-				container.insertBefore(child, container.children[index]);
-			}
-		});
+			children.forEach((child, index) => {
+				if (child !== container.children[index]) {
+					container.insertBefore(child, container.children[index]);
+				}
+			});
+		}
 	}
 }

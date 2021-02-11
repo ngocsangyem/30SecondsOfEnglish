@@ -25,12 +25,14 @@ export default class Ipas {
 	update(next) {
 		Object.assign(this.state, next);
 
-		this.render();
+		if (this.state.data.length > 0) {
+			this.render();
 
-		const $container = this.el.querySelector('.ipas .container');
-		$container.dataset.key = this.state.id;
-		this.audioGroup = new AudioGroup($container);
+			const $container = this.el.querySelector('.ipas .container');
+			$container.dataset.key = this.state.id;
+			this.audioGroup = new AudioGroup($container);
 
-		this.audioGroup.update({ data: this.state.data });
+			this.audioGroup.update({ data: this.state.data });
+		}
 	}
 }

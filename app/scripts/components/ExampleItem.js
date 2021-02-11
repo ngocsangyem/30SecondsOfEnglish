@@ -20,8 +20,10 @@ export default class ExampleItem {
 	update(next) {
 		Object.assign(this.state, next);
 
-		this.render();
+		if (this.state.text) {
+			this.render();
 
-		this.el.querySelector('span').textContent = this.state.text;
+			this.el.querySelector('span').textContent = this.state.text;
+		}
 	}
 }

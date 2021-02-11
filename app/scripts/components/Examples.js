@@ -21,39 +21,41 @@ export default class Examples {
 	update(next) {
 		Object.assign(this.state, next);
 
-		this.render();
+		if (this.state.examples.length > 0) {
+			this.render();
 
-		const container = this.el.querySelector('.examples');
-		const obsolete = new Set(container.children);
-		const childrenByKey = new Map();
+			const container = this.el.querySelector('.examples');
+			const obsolete = new Set(container.children);
+			const childrenByKey = new Map();
 
-		obsolete.forEach(function (child) {
-			childrenByKey.set(child.dataset.key, child);
-		});
+			obsolete.forEach(function (child) {
+				childrenByKey.set(child.dataset.key, child);
+			});
 
-		const children = this.state.examples.map((example) => {
-			let child = childrenByKey.get(example.id);
+			const children = this.state.examples.map((example) => {
+				let child = childrenByKey.get(example.id);
 
-			if (child) {
-				obsolete.delete(child);
-			} else {
-				child = document.createElement('div');
-				child.classList.add('example-item');
-				child.dataset.key = example.id;
-				this.exampleItem = new ExampleItem(child);
-			}
-			this.exampleItem.update({ ...example });
-			return child;
-		});
+				if (child) {
+					obsolete.delete(child);
+				} else {
+					child = document.createElement('div');
+					child.classList.add('example-item');
+					child.dataset.key = example.id;
+					this.exampleItem = new ExampleItem(child);
+				}
+				this.exampleItem.update({ ...example });
+				return child;
+			});
 
-		obsolete.forEach((child) => {
-			container.removeChild(child);
-		});
+			obsolete.forEach((child) => {
+				container.removeChild(child);
+			});
 
-		children.forEach((child, index) => {
-			if (child !== container.children[index]) {
-				container.insertBefore(child, container.children[index]);
-			}
-		});
+			children.forEach((child, index) => {
+				if (child !== container.children[index]) {
+					container.insertBefore(child, container.children[index]);
+				}
+			});
+		}
 	}
 }

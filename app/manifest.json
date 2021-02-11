@@ -1,0 +1,21 @@
+{
+	"manifest_version": 2,
+	"name": "30 Seconds Of English",
+	"short_name": "30 SoE",
+	"description": "Given new word every time open a new tab",
+	"version": "0.0.1",
+	"icons": {
+		"16": "/images/mstile-144x144.png",
+		"48": "/images/mstile-144x144.png",
+		"128": "/images/mstile-144x144.png"
+	},
+	"permissions": [
+		"storage",
+		"clipboardWrite"
+	],
+	"homepage_url": "https://ngocsangyem.io/",
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	},
+	"content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+}

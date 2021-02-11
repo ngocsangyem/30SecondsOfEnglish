@@ -20,8 +20,6 @@ export default class VerbSimple {
 
 	constructor(el) {
 		this.el = el;
-
-		this.render();
 	}
 
 	templates() {
@@ -55,6 +53,8 @@ export default class VerbSimple {
 
 	update(next) {
 		Object.assign(this.state, next);
+
+		this.render();
 
 		if (Object.keys(this.state).length === 0) return;
 

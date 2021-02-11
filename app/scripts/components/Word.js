@@ -7,8 +7,6 @@ export default class Word {
 
 	constructor(el) {
 		this.el = el;
-
-		this.render();
 	}
 
 	templates() {
@@ -28,6 +26,8 @@ export default class Word {
 
 	update(next) {
 		Object.assign(this.state, next);
+
+		this.render();
 
 		const $wordName = this.el.querySelector('.word-name');
 

@@ -5,8 +5,6 @@ export default class ExampleItem {
 	};
 	constructor(el) {
 		this.el = el;
-
-		this.render();
 	}
 
 	templates() {
@@ -21,6 +19,8 @@ export default class ExampleItem {
 
 	update(next) {
 		Object.assign(this.state, next);
+
+		this.render();
 
 		this.el.querySelector('span').textContent = this.state.text;
 	}

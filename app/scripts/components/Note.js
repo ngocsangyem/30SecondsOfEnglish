@@ -6,8 +6,6 @@ export default class Note {
 
 	constructor(el) {
 		this.el = el;
-
-		this.render();
 	}
 
 	templates() {
@@ -29,12 +27,16 @@ export default class Note {
 	update(next) {
 		Object.assign(this.state, next);
 
-		const $container = this.el.querySelector('.notes');
-
 		if (this.state.text) {
-			$container.classList.add('is-show');
-		}
+			this.render();
 
-		$container.querySelector('p').textContent = this.state.text;
+			const $container = this.el.querySelector('.notes');
+
+			if (this.state.text) {
+				$container.classList.add('is-show');
+			}
+
+			$container.querySelector('p').textContent = this.state.text;
+		}
 	}
 }

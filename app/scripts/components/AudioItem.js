@@ -8,9 +8,6 @@ export default class AudioItem {
 
 	constructor(el) {
 		this.el = el;
-
-		this.render();
-		this.handleEvents();
 	}
 
 	templates() {
@@ -47,9 +44,16 @@ export default class AudioItem {
 	update(next) {
 		Object.assign(this.state, next);
 
-		this.$audioButton.querySelector('span').textContent = this.state.local;
-		this.$audioSpell.textContent = this.state.spell;
-		this.$audio.src = this.state.src;
+		if (this.state.src) {
+			this.render();
+			this.handleEvents();
+
+			this.$audioButton.querySelector(
+				'span'
+			).textContent = this.state.local;
+			this.$audioSpell.textContent = this.state.spell;
+			this.$audio.src = this.state.src;
+		}
 	}
 
 	handleEvents() {

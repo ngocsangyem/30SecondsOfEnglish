@@ -9,8 +9,6 @@ export default class Senses {
 
 	constructor(el) {
 		this.el = el;
-
-		this.render();
 	}
 
 	templates() {
@@ -35,6 +33,8 @@ export default class Senses {
 
 	update(next) {
 		Object.assign(this.state, next);
+
+		this.render();
 
 		const $container = this.el.querySelector('.senses');
 		this.examples = new Examples(this.el.querySelector('.senses-examples'));

@@ -6,8 +6,6 @@ export default class Examples {
 	};
 	constructor(el) {
 		this.el = el;
-
-		this.render();
 	}
 
 	templates() {
@@ -22,6 +20,8 @@ export default class Examples {
 
 	update(next) {
 		Object.assign(this.state, next);
+
+		this.render();
 
 		const container = this.el.querySelector('.examples');
 		const obsolete = new Set(container.children);

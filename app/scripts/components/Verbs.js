@@ -11,8 +11,6 @@ export default class Verbs {
 
 	constructor(el) {
 		this.el = el;
-
-		this.render();
 	}
 
 	templates() {
@@ -35,52 +33,52 @@ export default class Verbs {
 	update(next) {
 		Object.assign(this.state, next);
 
-		if (Object.keys(this.state).length > 0) {
-			this.el.querySelector('.verbs').classList.add('is-show');
+		if (this.state.data.length > 0) {
+			this.render();
+
+			const $tableHeader = this.el.querySelector('.table-header h2');
+			const $tableContent = this.el.querySelector('.table-content');
+			const obsolete = new Set($tableContent.children);
+			const childrenByKey = new Map();
+
+			$tableHeader.textContent = this.tableName;
+
+			obsolete.forEach(function (child) {
+				childrenByKey.set(child.dataset.key, child);
+			});
+
+			const children = this.state.data.map((verb) => {
+				let child = childrenByKey.get(verb.id);
+
+				if (child) {
+					obsolete.delete(child);
+				} else {
+					child = document.createElement('div');
+					child.classList.add('table-item');
+					child.classList.add('text--sm');
+					child.classList.add(toDashCase(verb.sense));
+					child.dataset.key = verb.id;
+					this.verbItem = new VerbItem(child);
+				}
+				this.verbItem.update({ ...verb });
+				return child;
+			});
+
+			obsolete.forEach((child) => {
+				$tableContent.removeChild(child);
+			});
+
+			children.forEach((child, index) => {
+				if (child !== $tableContent.children[index]) {
+					$tableContent.insertBefore(
+						child,
+						$tableContent.children[index]
+					);
+				}
+			});
+
+			this.verbSimple = new VerbSimple($tableContent);
+			this.verbSimple.update(this.state.verb_simple);
 		}
-
-		const $tableHeader = this.el.querySelector('.table-header h2');
-		const $tableContent = this.el.querySelector('.table-content');
-		const obsolete = new Set($tableContent.children);
-		const childrenByKey = new Map();
-
-		$tableHeader.textContent = this.tableName;
-
-		obsolete.forEach(function (child) {
-			childrenByKey.set(child.dataset.key, child);
-		});
-
-		const children = this.state.data.map((verb) => {
-			let child = childrenByKey.get(verb.id);
-
-			if (child) {
-				obsolete.delete(child);
-			} else {
-				child = document.createElement('div');
-				child.classList.add('table-item');
-				child.classList.add('text--sm');
-				child.classList.add(toDashCase(verb.sense));
-				child.dataset.key = verb.id;
-				this.verbItem = new VerbItem(child);
-			}
-			this.verbItem.update({ ...verb });
-			return child;
-		});
-
-		obsolete.forEach((child) => {
-			$tableContent.removeChild(child);
-		});
-
-		children.forEach((child, index) => {
-			if (child !== $tableContent.children[index]) {
-				$tableContent.insertBefore(
-					child,
-					$tableContent.children[index]
-				);
-			}
-		});
-
-		this.verbSimple = new VerbSimple($tableContent);
-		this.verbSimple.update(this.state.verb_simple);
 	}
 }

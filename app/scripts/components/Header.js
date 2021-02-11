@@ -1,10 +1,10 @@
 export default class Header {
+	state = {};
+
 	constructor(el) {
 		this.el = el;
-
-		this.render();
 	}
-	
+
 	templates() {
 		return `
 		<header class="header-top">
@@ -16,10 +16,16 @@ export default class Header {
 				</span>
 			</a>
 		</header>
-		`
+		`;
 	}
 
 	render() {
 		this.el.insertAdjacentHTML('afterbegin', this.templates());
+	}
+
+	update(next) {
+		Object.assign(this.state, next);
+
+		this.render();
 	}
 }

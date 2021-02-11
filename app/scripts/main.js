@@ -8,7 +8,7 @@ import Ipas from './components/Ipas';
 import Word from './components/Word';
 import Note from './components/Note';
 import Senses from './components/Senses';
-import VerbSimple from './components/VerbSimple';
+import Loading from './components/Loading';
 
 export class App {
 	state = {};
@@ -16,17 +16,20 @@ export class App {
 	constructor(el) {
 		this.el = el;
 
-		// Catch data
+		this.render();
 		this.load();
+	}
 
-		new Switch(el);
-		new Header(el);
-		this.word = new Word(el);
-		this.ipas = new Ipas(el);
-		this.note = new Note(el);
-		this.senses = new Senses(el);
-		this.verbs = new Verbs(el);
-		new Footer(el);
+	render() {
+		this.switch = new Switch(this.el);
+		this.header = new Header(this.el);
+		this.word = new Word(this.el);
+		this.ipas = new Ipas(this.el);
+		this.note = new Note(this.el);
+		this.senses = new Senses(this.el);
+		this.verbs = new Verbs(this.el);
+		this.footer = new Footer(this.el);
+		this.loading = new Loading(this.el);
 	}
 
 	load() {
@@ -43,14 +46,23 @@ export class App {
 	update(next) {
 		Object.assign(this.state, next);
 
+		if (this.state) {
+			this.loading.disable();
+		}
+
+		this.header.update({});
 		this.word.update(this.state.word);
 		this.ipas.update(this.state.ipas);
 		this.note.update(this.state.note);
 		this.senses.update(this.state.senses);
 		this.verbs.update({
 			...this.state.verbs,
-			verb_simple: this.state.verb_simple.data[0],
+			verb_simple:
+				Object.keys(this.state.verb_simple).length > 0
+					? this.state.verb_simple.data[0]
+					: {},
 		});
+		this.footer.update({});
 	}
 
 	static init(el) {

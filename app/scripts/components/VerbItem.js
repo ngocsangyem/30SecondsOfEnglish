@@ -10,8 +10,6 @@ export default class VerbItem {
 
 	constructor(el) {
 		this.el = el;
-
-		this.render();
 	}
 
 	templates() {
@@ -28,6 +26,8 @@ export default class VerbItem {
 
 	update(next) {
 		Object.assign(this.state, next);
+
+		this.render();
 
 		const $verbTense = this.el.querySelector('.verb-tense');
 

@@ -7,8 +7,6 @@ export default class AudioGroup {
 
 	constructor(el) {
 		this.el = el;
-
-		this.render();
 	}
 
 	templates() {
@@ -23,6 +21,8 @@ export default class AudioGroup {
 
 	update(next) {
 		Object.assign(this.state, next);
+
+		this.render();
 
 		const container = this.el.querySelector('.audio-group');
 		const obsolete = new Set(container.children);

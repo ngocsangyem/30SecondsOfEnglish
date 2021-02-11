@@ -15,6 +15,7 @@
 	position: fixed;
 	right: var(--switch-pos);
 	bottom: var(--switch-pos);
+	z-index: 400;
 
 	width: var(--switch-width);
 	height: var(--switch-height);

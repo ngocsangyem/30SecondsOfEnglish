@@ -8,7 +8,6 @@ export default class Ipas {
 
 	constructor(el) {
 		this.el = el;
-		this.render();
 	}
 
 	templates() {
@@ -25,6 +24,8 @@ export default class Ipas {
 
 	update(next) {
 		Object.assign(this.state, next);
+
+		this.render();
 
 		const $container = this.el.querySelector('.ipas .container');
 		$container.dataset.key = this.state.id;

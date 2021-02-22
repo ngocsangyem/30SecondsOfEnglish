@@ -9,11 +9,13 @@
 		padding-top: 2rem;
 	}
 
-	.word-name {
-		.text--subtle {
-			font-size: var(--text-xs);
-			font-weight: 600;
-		}
+	.word-category {
+		font-style: italic;
+	}
+
+	.text--subtle {
+		font-size: 1rem;
+		font-weight: 600;
 	}
 }
 

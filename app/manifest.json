@@ -9,10 +9,6 @@
 		"48": "/images/mstile-144x144.png",
 		"128": "/images/mstile-144x144.png"
 	},
-	"permissions": [
-		"storage",
-		"clipboardWrite"
-	],
 	"homepage_url": "https://ngocsangyem.io/",
 	"chrome_url_overrides": {
 		"newtab": "index.html"

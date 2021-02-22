@@ -15,6 +15,7 @@ export default class Word {
 			<div class="container">
 				<h1 class="word-name">
 				</h1>
+				<span class="word-category text--subtle"></span>
 			</div>
 		</section>
 		`;
@@ -30,8 +31,10 @@ export default class Word {
 		this.render();
 
 		const $wordName = this.el.querySelector('.word-name');
+		const $wordCategory = this.el.querySelector('.word-category');
 
 		$wordName.dataset.key = this.state.id;
 		$wordName.textContent = this.state.name;
+		$wordCategory.textContent = this.state.lexicalCategory;
 	}
 }

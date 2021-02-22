@@ -46,6 +46,7 @@ function styles() {
 					cssDeclarationSorter({
 						order: 'concentric-css',
 					}),
+					cssnano()
 				])
 			)
 		)
